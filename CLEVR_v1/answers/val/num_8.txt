@@ -1,0 +1,1000 @@
+There is a yellow thing to the right of the rubber thing on the left side of the gray rubber cylinder; what is its material? Answer: metal. Output: metal
+Is the color of the metal block that is right of the yellow rubber object the same as the large metal cylinder? Answer: yes. Output: No
+Do the large metal sphere and the matte block have the same color? Answer: yes. Output: No, the large metal sphere and the matte block have different colors.
+Are there any large matte blocks of the same color as the large metal ball? Answer: yes. Output: No, there are no large matte blocks of the same color as the large metal ball.
+Is the number of gray objects in front of the large yellow metal object greater than the number of yellow spheres to the right of the small metal sphere? Answer: yes. Output: no
+Does the large yellow sphere have the same material as the sphere in front of the tiny blue object? Answer: yes. Output: yes
+The tiny shiny cylinder has what color? Answer: brown. Output: purple.
+There is a big metallic thing left of the tiny green object; what is its shape? Answer: sphere. Output: cube
+What number of yellow objects are big matte cubes or small metal objects? Answer: 1. Output: 1
+There is another thing that is the same material as the gray object; what is its color? Answer: yellow. Output: purple
+Are there any other things that are the same shape as the big brown object? Answer: no. Output: no
+What number of objects are gray metallic spheres in front of the tiny blue metallic thing or large blue blocks? Answer: 2. Output: There are three gray metallic spheres in front of the tiny blue metallic thing or large blue blocks.
+What is the color of the small block that is the same material as the big brown thing? Answer: gray. Output: The small block that is the same material as the big brown thing is blue.
+Is there a blue metal object that has the same size as the gray metal object? Answer: yes. Output: Yes, there is a blue metal object that has the same size as the gray metal object.
+Do the big rubber cube that is behind the small rubber cube and the large matte cylinder have the same color? Answer: no. Output: no
+The large thing that is both on the left side of the purple shiny object and behind the tiny gray metallic ball is what color? Answer: brown. Output: blue
+There is a gray rubber thing that is the same size as the gray sphere; what shape is it? Answer: cube. Output: cube
+Is there a gray metal object that has the same shape as the brown shiny object? Answer: yes. Output: Yes, there is a gray metal object that has the same shape as the brown shiny object.
+Do the metallic sphere to the right of the brown matte cylinder and the gray metallic thing have the same size? Answer: yes. Output: no
+There is a metallic object that is left of the brown ball and in front of the tiny blue block; what is its size? Answer: small. Output: small
+The small object that is the same color as the big matte cube is what shape? Answer: sphere. Output: square
+Is the number of big cyan rubber objects behind the small green rubber sphere greater than the number of blue shiny cubes? Answer: yes. Output: no
+What number of other objects are the same material as the large cyan ball? Answer: 5. Output: 3
+How many tiny things are cylinders or matte blocks? Answer: 1. Output: There are three tiny things that are cylinders or matte blocks.
+Does the small yellow block have the same material as the large cube? Answer: no. Output: No
+There is a small shiny object that is behind the tiny green ball; what number of cyan balls are in front of it? Answer: 1. Output: three
+Are there any big rubber objects of the same shape as the tiny cyan matte object? Answer: yes. Output: No
+Do the rubber object in front of the small cyan sphere and the metallic thing in front of the cylinder have the same shape? Answer: yes. Output: no
+There is a big matte object that is behind the small green object and on the left side of the purple shiny block; what shape is it? Answer: sphere. Output: cube
+Are there any cylinders of the same size as the purple block? Answer: yes. Output: Yes
+Is the number of small cylinders behind the cyan thing greater than the number of cubes that are behind the green block? Answer: no. Output: yes
+What is the color of the small rubber object that is right of the green rubber thing that is on the right side of the small red matte thing? Answer: yellow. Output: blue
+Do the large block and the tiny cyan thing have the same material? Answer: no. Output: no
+Are there any large brown things that have the same shape as the big gray metallic thing? Answer: no. Output: No, there are no large brown things that have the same shape as the big gray metallic thing.
+There is a small cylinder behind the tiny green ball; is its color the same as the big cylinder? Answer: no. Output: no
+Do the shiny object that is on the right side of the blue block and the cylinder in front of the large gray cube have the same size? Answer: no. Output: Yes
+There is a blue cube that is the same material as the tiny yellow thing; what size is it? Answer: small. Output: small
+How many small rubber cylinders are both on the left side of the tiny blue object and right of the green rubber block? Answer: 0. Output: two
+What number of objects are big metal things or green matte balls that are in front of the large gray thing? Answer: 3. Output: There are three big metal things or green matte balls that are in front of the large gray thing.
+What is the shape of the small object that is the same color as the metallic cylinder? Answer: cube. Output: The small object that is the same color as the metallic cylinder is a sphere.
+What number of metallic objects are both in front of the cube and behind the small brown object? Answer: 1. Output: There are three metallic objects that are both in front of the cube and behind the small brown object.
+What number of green things are large metallic things or cylinders? Answer: 0. Output: 1
+There is a shiny cylinder to the left of the big purple metal cylinder; is it the same color as the tiny rubber object that is in front of the small brown matte thing? Answer: yes. Output: no
+There is a large ball right of the large metal sphere that is left of the large object that is behind the small brown sphere; what color is it? Answer: blue. Output: gold
+There is a big metallic object that is on the right side of the purple shiny cylinder; is there a large cylinder behind it? Answer: yes. Output: yes
+Do the small yellow matte object that is on the left side of the brown thing and the purple thing have the same shape? Answer: no. Output: yes
+Is there any other thing that has the same shape as the small yellow rubber object? Answer: yes. Output: no
+How many spheres are brown things or small yellow objects? Answer: 3. Output: There are three spheres that are brown things or small yellow objects.
+What number of small yellow objects are there? Answer: 2. Output: 1
+What is the size of the cylinder to the left of the tiny matte object left of the large purple thing? Answer: large. Output: 10 cm
+Are there any red rubber cylinders? Answer: yes. Output: No
+There is a small shiny object on the right side of the big brown object; what color is it? Answer: red. Output: red
+There is a cyan object that is the same size as the yellow cylinder; what material is it? Answer: metal. Output: metal
+How many other objects are there of the same material as the tiny red ball? Answer: 3. Output: There are three other objects of the same material as the tiny red ball.
+What is the color of the large object that is both on the left side of the large cyan rubber cylinder and behind the red sphere? Answer: purple. Output: The large object that is both on the left side of the large cyan rubber cylinder and behind the red sphere is purple.
+How many objects are either cyan cylinders to the left of the red matte thing or big purple cylinders? Answer: 3. Output: three
+Is the number of red matte cylinders that are behind the big cyan rubber thing the same as the number of tiny cylinders? Answer: no. Output: no
+There is a small object that is behind the cyan cylinder that is in front of the yellow rubber cylinder; what number of small things are in front of it? Answer: 3. Output: three
+Is there anything else that has the same size as the brown matte object? Answer: yes. Output: No, the brown matte object is the only one of its size.
+There is a red rubber cylinder; does it have the same size as the purple shiny cylinder that is to the right of the sphere? Answer: no. Output: no
+There is a shiny ball to the right of the tiny rubber thing on the left side of the blue cube; how big is it? Answer: large. Output: small
+Is there a small yellow rubber cube? Answer: yes. Output: no
+There is a small object that is in front of the tiny cyan cylinder and behind the gray ball; what material is it? Answer: metal. Output: plastic
+Are there more brown objects that are in front of the big gray metal ball than gray objects that are behind the green cylinder? Answer: no. Output: Yes, there are more brown objects that are in front of the big gray metal ball than gray objects that are behind the green cylinder.
+Is there a blue metallic cube of the same size as the red metal cylinder? Answer: no. Output: Yes, there is a blue metallic cube of the same size as the red metal cylinder.
+There is a matte cube that is behind the object that is to the left of the large metallic ball on the left side of the tiny rubber cube; what is its size? Answer: large. Output: The matte cube that is behind the object that is to the left of the large metallic ball on the left side of the tiny rubber cube is quite small.
+The small ball is what color? Answer: brown. Output: purple. The blue ball is what color? blue. The green ball is what color? green. The red ball is what color? red. The yellow ball is what color? yellow.
+Is the number of gray things that are behind the small matte sphere greater than the number of cyan cylinders? Answer: no. Output: yes
+There is a big purple metallic sphere; what number of brown matte spheres are to the left of it? Answer: 0. Output: three
+There is a metal cylinder behind the sphere that is behind the big gray metallic ball; are there any tiny matte things on the right side of it? Answer: yes. Output: yes
+There is a gray object that is left of the small rubber sphere and in front of the gray matte block; what is its size? Answer: small. Output: small
+What number of other things are the same color as the small sphere? Answer: 0. Output: 1
+There is a gray rubber block left of the tiny gray cylinder that is to the left of the matte cylinder in front of the red object; what is its size? Answer: large. Output: small
+There is a tiny blue rubber sphere; are there any big red metallic cubes in front of it? Answer: no. Output: yes
+There is a red thing; is its size the same as the gray rubber cylinder that is right of the small purple object? Answer: no. Output: no
+What number of other things are there of the same material as the red block Answer: 3. Output: ? 3
+What shape is the gray thing that is both in front of the big gray cylinder and right of the matte ball? Answer: cylinder. Output: cube
+Is the size of the red metal cube behind the tiny purple cylinder the same as the shiny cylinder left of the sphere? Answer: no. Output: no
+There is a tiny blue object that is made of the same material as the big gray cube; what is its shape? Answer: sphere. Output: sphere
+Is there any other thing that has the same shape as the small gray metallic thing? Answer: yes. Output: no
+Is there another rubber object that has the same shape as the small cyan thing? Answer: yes. Output: no
+Is the size of the blue ball that is in front of the small cyan object the same as the purple matte cylinder that is in front of the brown ball? Answer: yes. Output: No
+There is a metallic object that is to the right of the blue cylinder that is behind the big purple object; what is its shape? Answer: sphere. Output: cylinder
+What number of cyan shiny objects have the same size as the green shiny cylinder? Answer: 0. Output: 1
+Are there any big purple matte objects? Answer: yes. Output: Yes
+Is there any other thing that is the same color as the big rubber cylinder? Answer: no. Output: no
+There is a tiny cyan object that is the same material as the large blue cylinder; what shape is it? Answer: sphere. Output: sphere
+The small sphere that is left of the metal ball right of the large shiny object on the right side of the green cylinder is what color? Answer: brown. Output: purple
+Is the number of big purple rubber cylinders that are on the left side of the tiny brown shiny ball the same as the number of small brown metallic blocks? Answer: yes. Output: no
+Does the large matte cylinder have the same color as the small ball that is on the left side of the red rubber ball? Answer: no. Output: no
+What number of objects are matte cylinders behind the red cylinder or purple shiny spheres? Answer: 2. Output: three
+The tiny green matte object behind the large purple shiny object that is right of the metal ball in front of the brown shiny object is what shape? Answer: sphere. Output: sphere
+The large brown object that is the same material as the large yellow cylinder is what shape? Answer: sphere. Output: sphere
+How big is the matte ball? Answer: small. Output: The matte ball is about the size of a basketball.
+Does the green cube have the same size as the yellow object? Answer: no. Output: no
+How many things are either small things that are behind the big yellow shiny object or green rubber balls behind the small red matte cylinder? Answer: 1. Output: There are three small things behind the big yellow shiny object and two green rubber balls behind the small red matte cylinder.
+There is a purple object in front of the small cylinder that is behind the small red cylinder; how many spheres are in front of it? Answer: 0. Output: There are three spheres in front of the purple object.
+There is a shiny cylinder to the right of the yellow metal cylinder; how big is it? Answer: large. Output: 6 inches
+How many green rubber things have the same size as the green cylinder? Answer: 2. Output: 1
+There is a yellow cylinder; does it have the same size as the metallic sphere that is behind the yellow metal object? Answer: yes. Output: no
+There is a rubber object in front of the blue matte ball; what number of green spheres are to the left of it? Answer: 0. Output: three
+Does the blue object in front of the large cylinder have the same material as the large blue object left of the blue matte sphere? Answer: no. Output: yes
+What number of other tiny things are the same shape as the blue metallic thing? Answer: 2. Output: 3
+How many objects have the same color as the metal cube? Answer: 2. Output: There are three objects that have the same color as the metal cube.
+Does the matte thing that is in front of the large matte thing have the same shape as the large blue thing that is behind the small sphere? Answer: yes. Output: no
+What number of green rubber balls are in front of the rubber sphere to the right of the blue object in front of the blue metallic thing? Answer: 0. Output: three
+What material is the small thing left of the rubber thing in front of the big blue object that is on the right side of the blue cylinder? Answer: rubber. Output: rubber
+Does the small cylinder behind the big cube have the same material as the green thing? Answer: no. Output: no
+What number of purple cubes have the same size as the blue metallic cylinder? Answer: 1. Output: 1
+Are there more balls that are to the right of the small metallic cylinder than balls that are left of the tiny cube? Answer: yes. Output: no
+Is there any other thing that is made of the same material as the large blue block? Answer: no. Output: Yes, there is a smaller green block that is made of the same material as the large blue block.
+What shape is the matte thing that is both on the left side of the big blue cube and in front of the purple cube? Answer: cube. Output: square
+There is a large cube to the right of the green matte cube; is its color the same as the rubber cylinder? Answer: yes. Output: no
+Do the purple object that is left of the big purple matte thing and the tiny brown object that is in front of the purple sphere have the same shape? Answer: yes. Output: no
+There is a thing that is in front of the cylinder; what size is it? Answer: large. Output: small
+How big is the cube in front of the small rubber cube right of the cylinder? Answer: large. Output: 3x3x3
+Is the number of small green rubber things greater than the number of blue metallic blocks? Answer: no. Output: no
+Is the number of green matte blocks that are behind the cylinder greater than the number of brown objects that are behind the small brown sphere? Answer: yes. Output: yes
+There is a matte thing that is both behind the big green matte cube and left of the big shiny block; what is its size? Answer: small. Output: small
+How many blue rubber objects are the same size as the blue shiny thing? Answer: 1. Output: There is only one blue rubber object that is the same size as the blue shiny thing.
+What number of other objects are the same size as the cyan metallic object? Answer: 4. Output: 1
+Does the blue metallic thing in front of the cyan object have the same shape as the big matte thing to the right of the tiny shiny ball? Answer: no. Output: yes
+What number of objects are tiny purple rubber spheres or large objects to the left of the red sphere? Answer: 4. Output: three
+What material is the thing that is both right of the gray rubber thing and left of the tiny metallic ball? Answer: rubber. Output: plastic
+Are there any other things that are the same shape as the green thing? Answer: no. Output: yes
+There is another large thing that is made of the same material as the red object; what is its color? Answer: cyan. Output: blue
+What number of things are yellow things or small red things? Answer: 1. Output: 0
+There is a cube; is its size the same as the cylinder to the right of the big gray cylinder? Answer: yes. Output: no
+There is a rubber cylinder in front of the blue shiny object that is in front of the thing that is right of the small red object; what is its color? Answer: gray. Output: green
+The block is what color? Answer: green. Output: blue
+What number of other things are there of the same shape as the brown rubber thing? Answer: 1. Output: 3
+There is a sphere that is in front of the large brown shiny block; what color is it? Answer: brown. Output: gold
+Is the rubber sphere the same size as the cyan rubber object? Answer: no. Output: no
+What material is the large brown thing that is on the left side of the small cyan object that is to the right of the small purple metallic ball? Answer: metal. Output: plastic
+How many other large cubes are the same color as the shiny cube? Answer: 0. Output: There are two other large cubes that are the same color as the shiny cube.
+Are there fewer small purple things that are in front of the brown rubber cylinder than big metal objects? Answer: yes. Output: yes
+There is a big ball left of the big sphere right of the rubber block; what color is it? Answer: yellow. Output: gold
+There is a cylinder that is behind the brown rubber cylinder that is to the right of the brown shiny sphere that is on the left side of the gray rubber object; what size is it? Answer: large. Output: the cylinder is about the same size as the brown rubber cylinder
+Are there fewer brown cubes that are right of the big gray matte thing than matte spheres that are behind the big brown cube? Answer: yes. Output: yes
+What number of tiny cyan objects have the same material as the brown cylinder? Answer: 1. Output: 1
+Does the small object in front of the tiny blue rubber cylinder have the same shape as the shiny object behind the large blue metal ball? Answer: yes. Output: Yes, the small object in front of the tiny blue rubber cylinder has the same shape as the shiny object behind the large blue metal ball.
+There is a purple metal cylinder; what number of large blue shiny things are to the right of it? Answer: 1. Output: 1
+There is a metallic cylinder that is in front of the purple cube; what color is it? Answer: purple. Output: purple
+The large metallic thing that is the same shape as the small blue rubber thing is what color? Answer: blue. Output: purple
+Is there any other thing of the same color as the matte cube? Answer: no. Output: No
+Is the number of blue cylinders greater than the number of large blue cylinders? Answer: yes. Output: no
+Do the purple ball and the small blue cylinder have the same material? Answer: no. Output: No
+How many small cylinders are made of the same material as the big blue cylinder? Answer: 1. Output: There are three small cylinders made of the same material as the big blue cylinder.
+There is a purple cylinder; is it the same size as the rubber thing to the left of the big red object? Answer: yes. Output: no
+There is a thing that is both behind the big purple sphere and left of the small blue object; what is its color? Answer: blue. Output: purple
+There is a brown ball; does it have the same size as the green rubber object on the left side of the big green cube? Answer: yes. Output: no
+How many matte objects are blue things or objects? Answer: 4. Output: There are three matte objects that are blue things or objects.
+Is the number of large purple metallic balls greater than the number of tiny red objects? Answer: yes. Output: no
+What size is the metal cylinder that is the same color as the large rubber block? Answer: large. Output: The size of the metal cylinder that is the same color as the large rubber block is 10 inches.
+What is the shape of the green rubber object behind the green thing that is right of the big matte sphere? Answer: cylinder. Output: cube
+There is a large shiny thing to the left of the big metal ball on the left side of the big purple thing; is there a matte cylinder left of it? Answer: yes. Output: yes
+There is a metal thing that is the same size as the blue rubber cube; what color is it? Answer: gray. Output: silver
+There is a object that is both behind the cyan metallic thing and in front of the large purple metallic sphere; what shape is it? Answer: cube. Output: egg
+How big is the block that is on the right side of the big ball in front of the small gray cylinder? Answer: large. Output: 10 cm
+What number of shiny objects are the same color as the big rubber cylinder? Answer: 1. Output: 1
+There is a blue matte thing that is to the left of the matte cylinder that is on the left side of the big green cube; what size is it? Answer: small. Output: small
+Is the number of blue rubber cylinders in front of the large green metallic object the same as the number of gray shiny blocks? Answer: yes. Output: No
+What number of other objects are the same color as the small cylinder? Answer: 0. Output: 0
+Is the number of large things that are to the right of the large cyan shiny ball less than the number of cyan objects? Answer: no. Output: yes
+Are there any spheres of the same size as the cyan metal object? Answer: yes. Output: Yes, there are spheres of the same size as the cyan metal object.
+Does the big rubber sphere have the same color as the large ball that is in front of the large green cylinder? Answer: yes. Output: no
+What number of rubber cubes are behind the tiny rubber object in front of the yellow matte thing? Answer: 0. Output: three
+What is the color of the tiny object that is in front of the big metal thing that is to the right of the matte cube? Answer: blue. Output: The tiny object that is in front of the big metal thing that is to the right of the matte cube is green.
+There is a big object that is both in front of the green cylinder and to the left of the large blue cylinder; what material is it made of? Answer: metal. Output: metal
+Are there any yellow matte things of the same shape as the large blue thing? Answer: yes. Output: Yes
+Do the big rubber thing and the tiny sphere have the same color? Answer: no. Output: no
+Is the number of tiny rubber things that are behind the small gray thing greater than the number of tiny blue blocks? Answer: yes. Output: yes
+There is a small brown metal thing that is to the left of the small brown shiny cylinder; what number of big green spheres are behind it? Answer: 0. Output: three
+Does the brown object that is in front of the large purple rubber object have the same material as the tiny red cylinder in front of the big matte thing? Answer: no. Output: yes
+What is the material of the tiny object that is the same color as the metallic cylinder? Answer: metal. Output: The material of the tiny object that is the same color as the metallic cylinder is plastic.
+How many tiny brown metal things are the same shape as the large purple object? Answer: 1. Output: There are three tiny brown metal things that are the same shape as the large purple object.
+Is the material of the large green sphere the same as the sphere that is in front of the green metallic ball? Answer: yes. Output: No, the material of the large green sphere is different from the sphere that is in front of the green metallic ball.
+What is the material of the gray block that is the same size as the metal cylinder? Answer: metal. Output: The material of the gray block that is the same size as the metal cylinder is plastic.
+Is there a brown shiny cylinder that has the same size as the gray cube? Answer: yes. Output: Yes, there is a brown shiny cylinder that has the same size as the gray cube.
+There is a blue object that is the same size as the gray shiny object; what is its shape? Answer: sphere. Output: sphere
+Is there a tiny purple thing that has the same material as the big purple cylinder? Answer: no. Output: yes
+Are there any other things that are the same material as the purple ball? Answer: yes. Output: yes
+The large metallic thing is what color? Answer: green. Output: silver.
+There is a tiny object that is the same color as the large sphere; what shape is it? Answer: cube. Output: cube
+What is the color of the ball that is the same size as the blue matte cylinder? Answer: green. Output: green
+How many rubber objects are either big spheres or tiny purple cylinders? Answer: 0. Output: There are three rubber objects that are either big spheres or tiny purple cylinders.
+How many matte cylinders are both behind the purple matte cylinder and in front of the large blue cylinder? Answer: 1. Output: Two
+Are there any other things that are the same shape as the yellow thing? Answer: yes. Output: yes
+What number of other objects are there of the same size as the red rubber object? Answer: 3. Output: 3
+Is the size of the metal sphere that is right of the small green metal object the same as the block on the right side of the tiny blue object? Answer: no. Output: no
+What number of small blocks are behind the small metal cylinder in front of the cube behind the large cyan cube? Answer: 1. Output: There are three small blocks behind the small metal cylinder in front of the cube behind the large cyan cube.
+There is another shiny thing that is the same color as the big metal thing; what is its size? Answer: small. Output: small
+Are there any purple spheres made of the same material as the big cylinder? Answer: no. Output: No, there are no purple spheres made of the same material as the big cylinder.
+Do the green thing and the large blue thing have the same material? Answer: yes. Output: no
+How many blue matte things are right of the small cylinder that is left of the small sphere? Answer: 0. Output: two
+What number of cyan objects are either large metal things or small rubber things? Answer: 1. Output: 1
+There is a yellow object on the right side of the big matte object that is in front of the object that is to the left of the tiny red shiny cylinder; what is its shape? Answer: cube. Output: cylinder
+What color is the cube that is the same size as the yellow rubber cylinder? Answer: cyan. Output: blue
+How many small cyan objects are the same shape as the large yellow thing? Answer: 1. Output: 0
+Do the yellow matte object and the shiny cylinder behind the green matte sphere have the same size? Answer: no. Output: Yes, the yellow matte object and the shiny cylinder behind the green matte sphere have the same size. No, the yellow matte object and the shiny cylinder behind the green matte sphere do not have the same size. Yes, the yellow matte object and the shiny cylinder behind the green matte sphere have the same size. No, the yellow matte object and the shiny cylinder behind the green matte sphere do not have the same size. Yes, the yellow matte object and the shiny cylinder behind the green matte sphere have the same size. No, the yellow matte object and the shiny cylinder behind the green matte sphere do not have the same size. Yes, the yellow matte object and the shiny cylinder behind the green matte sphere have the same size. No, the yellow matte object and the shiny cylinder behind the green matte sphere do not have the same size. Yes, the yellow matte object and the shiny cylinder behind the green matte sphere have the same size. No, the yellow matte object and the shiny cylinder behind the green matte sphere do not have the same size.
+There is a metallic cube that is on the left side of the small gray thing; is its color the same as the small rubber block that is left of the large brown object? Answer: no. Output: no
+Is the number of gray matte cubes in front of the brown metal object greater than the number of tiny green metal cylinders? Answer: no. Output: yes
+There is a big green object that is the same material as the gray object; what shape is it? Answer: cylinder. Output: sphere
+Does the green object that is behind the gray rubber block have the same size as the red matte thing? Answer: no. Output: no
+There is a object that is behind the cylinder to the right of the big matte cylinder; what shape is it? Answer: sphere. Output: sphere
+There is a green ball that is on the right side of the rubber object behind the green matte object; what size is it? Answer: small. Output: small
+What is the color of the big thing in front of the big green rubber object? Answer: brown. Output: The big thing in front of the big green rubber object is gold.
+What is the size of the brown thing that is the same material as the blue cylinder? Answer: large. Output: small
+How many other small things are the same shape as the tiny gray rubber thing? Answer: 1. Output: three
+What material is the gray thing that is the same size as the red matte block? Answer: rubber. Output: The gray thing is not the same size as the red matte block. The gray thing is smaller than the red matte block.
+Is the color of the small object behind the purple sphere the same as the small matte thing? Answer: no. Output: No
+How many brown objects are either small shiny objects or metal cylinders? Answer: 2. Output: There are two brown objects on the table, one of which is a small shiny object and the other is a metal cylinder.
+How many other things are there of the same shape as the big red metal thing? Answer: 2. Output: three
+Does the large purple sphere have the same material as the big red cylinder? Answer: no. Output: yes
+What is the material of the thing that is both in front of the tiny yellow rubber ball and to the left of the green shiny thing? Answer: metal. Output: metal
+The big cylinder that is in front of the big shiny sphere is what color? Answer: green. Output: green.
+Is the number of purple balls that are in front of the big matte ball greater than the number of matte cylinders? Answer: no. Output: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+How many other objects are the same size as the purple rubber object? Answer: 4. Output: There are three other objects that are the same size as the purple rubber object.
+How many tiny brown metal things are behind the big red metallic thing? Answer: 1. Output: There are three tiny brown metal things behind the big red metallic thing.
+Are there an equal number of large cylinders that are on the right side of the brown metallic cube and tiny metal blocks that are behind the brown cylinder? Answer: yes. Output: Yes, there are an equal number of large cylinders that are on the right side of the brown metallic cube and tiny metal blocks that are behind the brown cylinder.
+What is the material of the thing that is the same color as the big matte cube? Answer: rubber. Output: The material of the thing that is the same color as the big matte cube is plastic.
+Is there a big ball of the same color as the tiny metallic ball? Answer: no. Output: Yes, there is a big ball of the same color as the tiny metallic ball.
+Is there any other thing that has the same size as the yellow ball? Answer: yes. Output: no
+How many things are the same color as the big rubber block? Answer: 1. Output: There are three things that are the same color as the big rubber block.
+Do the rubber sphere and the metallic block that is to the left of the big metal block have the same color? Answer: no. Output: no
+How many things are red shiny things or tiny spheres on the left side of the tiny yellow matte cylinder? Answer: 1. Output: three
+There is a yellow matte cylinder that is left of the small shiny object that is in front of the small yellow metal object; what is its size? Answer: large. Output: small
+Are there an equal number of small brown rubber objects that are to the right of the large metallic block and yellow metal things left of the big yellow matte cylinder? Answer: no. Output: no
+There is a matte thing behind the large brown rubber cube; are there any tiny gray things that are in front of it? Answer: no. Output: no
+What is the shape of the big yellow object that is the same material as the small cylinder? Answer: cylinder. Output: cylinder
+There is a small thing that is on the right side of the matte cylinder that is behind the red cube that is behind the tiny cyan matte thing; what is its shape? Answer: sphere. Output: sphere
+There is a tiny matte thing that is the same color as the small matte cube; what shape is it? Answer: cylinder. Output: cylinder
+What number of things are either red matte blocks or red matte cylinders that are to the left of the tiny cyan ball? Answer: 2. Output: three
+Is the size of the matte block behind the red rubber cylinder the same as the green shiny thing? Answer: yes. Output: no
+What is the material of the red object that is to the right of the yellow thing? Answer: rubber. Output: plastic
+Are there an equal number of big green metallic objects to the left of the gray metallic cylinder and big green metal things that are to the left of the big yellow rubber block? Answer: yes. Output: Yes, there are an equal number of big green metallic objects to the left of the gray metallic cylinder and big green metal things that are to the left of the big yellow rubber block.
+What color is the other big thing that is the same shape as the gray thing? Answer: green. Output: green
+Is there anything else that is the same color as the small metallic object? Answer: yes. Output: No, there is nothing else that is the same color as the small metallic object.
+How many metallic things are either red cubes or cylinders? Answer: 3. Output: There are three metallic things that are either red cubes or cylinders.
+Is the color of the tiny rubber block the same as the tiny metal thing? Answer: yes. Output: No
+What is the material of the large thing that is the same color as the tiny rubber sphere? Answer: metal. Output: The material of the large thing that is the same color as the tiny rubber sphere is metal.
+Is the material of the small thing behind the tiny red metallic block the same as the small sphere that is in front of the small red metallic cube? Answer: no. Output: Yes, the material of the small thing behind the tiny red metallic block is the same as the small sphere that is in front of the small red metallic cube.
+There is a purple thing that is the same shape as the big gray matte thing; what is it made of? Answer: metal. Output: metal
+Is there any other thing that has the same size as the red object? Answer: yes. Output: no
+There is a object behind the brown sphere; is its shape the same as the cyan thing on the left side of the tiny purple cube? Answer: no. Output: no
+Is the number of gray cubes to the right of the tiny cyan ball less than the number of big purple metal spheres that are in front of the purple shiny sphere? Answer: no. Output: Yes, the number of gray cubes to the right of the tiny cyan ball is less than the number of big purple metal spheres that are in front of the purple shiny sphere.
+How many other objects are there of the same shape as the tiny rubber object? Answer: 3. Output: There are three other objects of the same shape as the tiny rubber object.
+What shape is the tiny brown object that is the same material as the small purple thing? Answer: sphere. Output: sphere
+There is a thing that is both behind the large purple shiny ball and in front of the gray object; what color is it? Answer: brown. Output: gold
+Is the material of the cyan object right of the big gray rubber cube the same as the gray object? Answer: no. Output: no
+What shape is the object that is the same color as the large matte cylinder? Answer: cube. Output: sphere
+Does the small cylinder that is in front of the brown metallic sphere have the same material as the purple cylinder? Answer: no. Output: yes
+Are there any large cyan shiny things of the same shape as the small blue object? Answer: no. Output: Yes, there is a large cyan shiny thing of the same shape as the small blue object.
+Are there the same number of small green cylinders on the left side of the tiny blue matte ball and gray matte cubes? Answer: yes. Output: no
+What material is the small cylinder that is behind the small rubber cylinder that is right of the purple rubber thing? Answer: rubber. Output: plastic
+The small red thing has what shape? Answer: cylinder. Output: sphere
+Are there an equal number of blue rubber spheres on the right side of the gray cylinder and small purple matte things on the left side of the green cylinder? Answer: no. Output: no
+There is a rubber cylinder on the right side of the blue ball; is it the same color as the small object behind the blue ball? Answer: no. Output: no
+Are there more tiny purple things to the left of the small green cylinder than blue cylinders? Answer: yes. Output: no
+The small green thing that is made of the same material as the large brown ball is what shape? Answer: cylinder. Output: sphere
+Do the shiny cylinder and the big shiny ball have the same color? Answer: no. Output: No, the cylinder is blue and the ball is gold.
+There is a brown object that is the same shape as the tiny purple metallic thing; what is its size? Answer: large. Output: small
+Is the material of the ball to the left of the large cyan object the same as the blue cylinder? Answer: no. Output: no
+Are there the same number of big things that are on the left side of the cyan metal cube and big rubber blocks? Answer: no. Output: No
+What is the size of the brown sphere? Answer: large. Output: The size of the brown sphere is not specified in the image.
+There is a large cylinder that is the same color as the large rubber block; what is its material? Answer: rubber. Output: metal
+How many other metallic objects have the same color as the tiny metal object? Answer: 1. Output: There are three other metallic objects with the same color as the tiny metal object.
+Does the cyan cube have the same size as the purple metal cylinder? Answer: yes. Output: no
+There is a cylinder behind the tiny purple metallic sphere behind the large blue metallic object; what size is it? Answer: small. Output: small
+There is a big rubber cylinder; does it have the same color as the shiny block in front of the small purple metallic thing? Answer: yes. Output: no
+Are there any green cylinders made of the same material as the large green block? Answer: yes. Output: Yes, there is a green cylinder made of the same material as the large green block.
+What number of blocks are tiny rubber objects or large metallic objects? Answer: 2. Output: There are three small rubber objects and one large metallic object.
+Are there any rubber things that are left of the large green object to the right of the green cylinder? Answer: yes. Output: no
+Are there fewer small purple shiny blocks than cyan matte things? Answer: no. Output: yes
+What number of purple shiny objects are the same shape as the yellow object? Answer: 1. Output: 1
+What number of yellow things are either matte cylinders or balls? Answer: 0. Output: 0
+How big is the red object that is to the right of the red ball in front of the yellow rubber block? Answer: large. Output: 1/2 inch
+What is the material of the large object that is the same shape as the tiny shiny thing? Answer: metal. Output: The material of the large object that is the same shape as the tiny shiny thing is metal.
+How many yellow cubes are the same size as the green block? Answer: 0. Output: 0
+Do the yellow matte thing and the gray thing have the same size? Answer: yes. Output: no
+There is a object that is the same color as the cylinder; what material is it? Answer: metal. Output: metal
+Are there fewer green blocks to the left of the cyan rubber cube than metallic cubes behind the yellow metal object? Answer: no. Output: yes
+How many things are tiny gray metallic blocks or rubber balls that are right of the red ball? Answer: 1. Output: three
+What is the material of the red ball that is the same size as the yellow rubber thing? Answer: rubber. Output: rubber
+Do the tiny red sphere and the small cyan block have the same material? Answer: yes. Output: No
+There is a thing that is on the right side of the brown metallic thing and to the left of the green metallic cube; what is its color? Answer: yellow. Output: gold
+Do the rubber thing to the right of the metal ball and the cylinder have the same color? Answer: no. Output: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+What shape is the red thing that is the same size as the cyan rubber block? Answer: sphere. Output: cube
+How many other things are the same color as the tiny cube? Answer: 0. Output: 1
+What number of other things are made of the same material as the big yellow object? Answer: 2. Output: 3
+What material is the cyan block that is the same size as the purple matte object? Answer: rubber. Output: The cyan block that is the same size as the purple matte object is made of plastic.
+Are there any big objects made of the same material as the small blue ball? Answer: yes. Output: No, there are no big objects made of the same material as the small blue ball.
+There is a matte ball on the right side of the big green metallic cube that is behind the big cube on the right side of the purple metallic thing; what color is it? Answer: gray. Output: blue
+There is a matte ball that is in front of the big gray object; is it the same color as the tiny matte ball that is behind the big matte sphere? Answer: no. Output: no
+Is there any other thing that has the same color as the large matte cube? Answer: yes. Output: No
+Are there fewer matte spheres that are to the right of the large blue thing than green metal cylinders? Answer: no. Output: yes
+How many large matte objects are there? Answer: 2. Output: There are four large matte objects in the image.
+There is a large blue rubber object; is its shape the same as the tiny thing that is behind the large green cylinder? Answer: no. Output: no
+Are there fewer tiny cyan cubes that are in front of the cyan matte block than small blue matte spheres that are behind the green cylinder? Answer: no. Output: yes
+Does the big purple metallic object have the same shape as the large blue thing? Answer: yes. Output: no
+Does the tiny shiny cylinder have the same color as the metal ball? Answer: no. Output: no
+Is there any other thing that has the same shape as the large cyan metallic thing? Answer: no. Output: no
+Is the shape of the small cyan rubber thing the same as the cyan object in front of the cyan rubber cube? Answer: no. Output: no
+What size is the blue object that is the same shape as the cyan matte thing? Answer: small. Output: small
+How many other things are there of the same material as the large object? Answer: 5. Output: There are four other things of the same material as the large object.
+What is the material of the small red thing? Answer: rubber. Output: The small red thing is made of plastic.
+There is a large thing that is on the right side of the small cyan rubber thing; is it the same color as the matte thing behind the big cyan shiny thing? Answer: yes. Output: no
+Are there more shiny things left of the small yellow cube than brown rubber cylinders? Answer: yes. Output: Yes
+How many other objects are the same color as the tiny metallic cylinder? Answer: 0. Output: There are three other objects that are the same color as the tiny metallic cylinder.
+There is a metal cube left of the blue cube; is its size the same as the tiny yellow object? Answer: yes. Output: no
+What number of cylinders are large purple shiny things or gray objects? Answer: 1. Output: There are three large purple shiny things or gray objects.
+What number of objects are either tiny rubber cubes or objects left of the small gray block? Answer: 8. Output: three
+Are any big rubber objects visible? Answer: yes. Output: No
+How many large rubber spheres are the same color as the rubber cylinder? Answer: 0. Output: There are two large rubber spheres that are the same color as the rubber cylinder.
+There is a cube that is the same color as the matte cylinder; what material is it? Answer: rubber. Output: plastic
+There is a rubber object that is right of the small matte cube that is in front of the small metal cylinder; how big is it? Answer: small. Output: small
+Are there any green blocks made of the same material as the yellow block? Answer: no. Output: Yes, there are two green blocks made of the same material as the yellow block.
+There is another cyan block that is the same size as the metallic block; what is it made of? Answer: rubber. Output: plastic
+Is the color of the small cube on the left side of the tiny yellow rubber thing the same as the cylinder on the left side of the yellow cylinder? Answer: yes. Output: no
+There is a small gray rubber thing that is in front of the cyan thing; is there a gray matte block in front of it? Answer: no. Output: yes
+Is the large cylinder made of the same material as the small thing behind the small shiny block? Answer: yes. Output: No, the large cylinder is not made of the same material as the small shiny block. The large cylinder is made of metal, while the small shiny block is made of plastic.
+What is the material of the brown thing? Answer: metal. Output: The material of the brown thing is plastic.
+What is the shape of the tiny brown thing that is made of the same material as the small yellow object? Answer: cube. Output: sphere
+What number of other things are the same shape as the tiny yellow object? Answer: 3. Output: 1
+There is a tiny brown object; how many gray matte balls are on the right side of it? Answer: 0. Output: three
+There is a matte sphere that is behind the small yellow cylinder; does it have the same size as the ball that is in front of the tiny gray shiny cylinder? Answer: no. Output: no
+How many other things are there of the same size as the yellow rubber object? Answer: 1. Output: There are four other objects of the same size as the yellow rubber object.
+What material is the cube in front of the large yellow rubber sphere that is in front of the matte thing that is on the right side of the yellow cylinder? Answer: metal. Output: Aluminum
+There is a yellow shiny object; is it the same size as the cube behind the big matte cylinder? Answer: yes. Output: no
+How big is the gray thing that is both to the right of the large rubber cylinder and behind the small rubber sphere? Answer: small. Output: 12 inches
+Are there fewer purple metal objects that are in front of the green thing than big blue blocks? Answer: no. Output: yes
+Does the cyan thing to the right of the small yellow cylinder have the same material as the big green object? Answer: no. Output: no
+There is a cyan metallic object in front of the cyan thing left of the blue cylinder in front of the green thing; what is its shape? Answer: cylinder. Output: sphere
+Are there any cylinders that have the same size as the purple metallic object? Answer: yes. Output: Yes, there are cylinders that have the same size as the purple metallic object.
+What size is the green matte ball? Answer: large. Output: The green matte ball is about the size of a basketball.
+How many purple blocks are the same size as the rubber sphere? Answer: 1. Output: 0
+Is the number of large purple metallic objects that are left of the gray thing less than the number of small matte cylinders behind the tiny purple matte object? Answer: no. Output: yes
+What is the size of the yellow shiny cylinder in front of the big cube that is to the right of the tiny shiny object behind the yellow object? Answer: small. Output: The size of the yellow shiny cylinder in front of the big cube that is to the right of the tiny shiny object behind the yellow object is about 10 centimeters.
+What size is the metal object that is both left of the large purple shiny cube and in front of the gray object? Answer: small. Output: The size of the metal object that is both left of the large purple shiny cube and in front of the gray object is small.
+There is a large metallic object that is left of the cyan metal cylinder that is left of the blue cylinder; what is its shape? Answer: cube. Output: cube
+Do the large block and the small matte cylinder that is in front of the gray matte block have the same color? Answer: yes. Output: no
+How many tiny gray shiny spheres are there? Answer: 0. Output: There are three tiny gray shiny spheres in the image.
+Is there a small matte thing of the same color as the big metallic sphere? Answer: yes. Output: Yes, there is a small matte thing of the same color as the big metallic sphere.
+The ball that is to the right of the large ball that is in front of the cylinder that is on the left side of the big red thing is what color? Answer: red. Output: blue
+Is the tiny blue cylinder made of the same material as the sphere in front of the tiny purple rubber cylinder? Answer: no. Output: yes
+What is the yellow object made of? Answer: rubber. Output: The yellow object is made of plastic.
+There is a thing that is the same color as the large shiny ball; what material is it? Answer: rubber. Output: metal
+What number of other objects are there of the same material as the tiny purple cylinder? Answer: 4. Output: three
+What shape is the big thing that is behind the brown shiny cube and in front of the tiny yellow matte thing? Answer: sphere. Output: egg
+What color is the big object that is the same material as the tiny yellow thing? Answer: red. Output: The big object that is the same material as the tiny yellow thing is blue.
+There is a large thing that is left of the green object that is left of the big green shiny object; what number of yellow objects are behind it? Answer: 1. Output: three
+The brown object that is the same shape as the red object is what size? Answer: large. Output: small
+Is there anything else that has the same size as the brown metal thing? Answer: yes. Output: No
+Do the large cylinder to the left of the large brown shiny thing and the large brown cylinder have the same material? Answer: yes. Output: no
+The metallic thing that is the same shape as the green matte thing is what color? Answer: yellow. Output: red
+What number of other objects are there of the same color as the small shiny sphere? Answer: 0. Output: three
+Does the big thing right of the big brown cylinder have the same shape as the large red thing in front of the small yellow sphere? Answer: yes. Output: no
+How many cubes are brown rubber things or big red shiny things? Answer: 0. Output: There are three brown rubber things and one big red shiny thing.
+Is the number of objects that are left of the gray shiny cube less than the number of tiny red balls? Answer: no. Output: yes
+How many other objects are the same material as the big green sphere? Answer: 2. Output: 2
+What number of big brown objects are left of the big brown rubber object? Answer: 0. Output: 1
+There is a large red object; is its shape the same as the brown matte thing that is on the right side of the large brown matte cylinder? Answer: no. Output: no
+Are there any other large matte objects of the same shape as the red object? Answer: yes. Output: No
+What is the shape of the large shiny object right of the big rubber object that is behind the big red metallic object? Answer: cylinder. Output: rectangular
+The cyan thing behind the big metallic block has what shape? Answer: sphere. Output: sphere
+Is the color of the big cube that is to the right of the large rubber cylinder the same as the large metal object that is right of the large shiny block? Answer: no. Output: Yes, the color of the big cube that is to the right of the large rubber cylinder is the same as the large metal object that is right of the large shiny block.
+What number of objects are both to the right of the small brown sphere and in front of the big red thing? Answer: 0. Output: 2
+There is a green thing that is made of the same material as the large brown cylinder; what is its size? Answer: small. Output: small
+What is the size of the gray block? Answer: large. Output: The size of the gray block is not specified in the image.
+What is the material of the large brown thing? Answer: rubber. Output: The large brown thing is made of metal.
+Are there any other things that have the same color as the big block? Answer: no. Output: No
+The big cube that is the same material as the cylinder is what color? Answer: blue. Output: blue.
+Is the thing that is to the right of the gray metal ball made of the same material as the sphere that is in front of the tiny cyan shiny thing? Answer: yes. Output: no
+What is the material of the tiny cyan thing that is right of the large purple shiny thing? Answer: metal. Output: metal
+Does the small cyan object on the left side of the yellow metal block have the same shape as the cyan object in front of the cyan matte thing? Answer: yes. Output: yes
+Is there a green cylinder? Answer: no. Output: yes
+What material is the other tiny yellow object that is the same shape as the small matte thing? Answer: metal. Output: plastic
+There is a big yellow sphere; are there any cylinders left of it? Answer: yes. Output: no
+Is the material of the small cyan block that is behind the tiny cyan shiny cube the same as the big blue thing? Answer: no. Output: no
+Are there any metallic blocks that have the same color as the tiny rubber thing? Answer: yes. Output: Yes, there are metallic blocks that have the same color as the tiny rubber thing.
+Is the metallic ball the same color as the shiny cube? Answer: no. Output: No, the metallic ball is a different color than the shiny cube.
+Are there any other things that are made of the same material as the tiny cyan block? Answer: yes. Output: Yes, there are other things that are made of the same material as the tiny cyan block.
+What number of things are big yellow metal things or tiny things that are right of the tiny red cylinder? Answer: 4. Output: 1
+There is a red cylinder right of the yellow rubber cube; is it the same size as the small yellow cube? Answer: no. Output: no
+What number of other things are there of the same shape as the yellow object? Answer: 2. Output: 1
+What number of gray objects are big objects or metal cubes? Answer: 0. Output: There are three gray objects that are big objects or metal cubes.
+There is a large object that is behind the large shiny cylinder; is it the same color as the large metal ball? Answer: no. Output: no
+There is a yellow object that is the same material as the large red thing; what shape is it? Answer: cube. Output: sphere
+What is the color of the tiny block that is both left of the gray thing and in front of the small metal block? Answer: yellow. Output: Green
+There is a cube in front of the tiny thing to the right of the tiny gray rubber cube; how big is it? Answer: small. Output: small
+Does the object that is left of the large yellow ball have the same shape as the tiny green rubber object that is right of the large cyan thing? Answer: yes. Output: no
+Are there any cyan shiny objects of the same size as the yellow matte cylinder? Answer: yes. Output: Yes, there is a cyan shiny object of the same size as the yellow matte cylinder.
+How many green objects are either big metallic blocks or small matte cylinders? Answer: 1. Output: There is only one green object, which is a small matte cylinder.
+What number of large shiny cubes are the same color as the large cylinder? Answer: 1. Output: 1
+Is there anything else that is the same shape as the large cyan shiny thing? Answer: yes. Output: no
+What number of balls are either matte objects or small red metallic objects? Answer: 1. Output: There are three balls that are either matte objects or small red metallic objects.
+There is a small object left of the yellow sphere; what is its color? Answer: cyan. Output: green
+There is a yellow rubber thing that is the same size as the red thing; what shape is it? Answer: cylinder. Output: sphere
+There is a tiny yellow cylinder; what number of yellow cylinders are behind it? Answer: 1. Output: 1
+How many things are either small blue cubes or red spheres? Answer: 1. Output: There are three small blue cubes and one red sphere.
+What number of metallic cylinders are left of the big red cylinder? Answer: 0. Output: 1
+What number of objects are either green metallic things that are on the right side of the big ball or rubber things? Answer: 5. Output: three
+Are there more large things to the right of the large shiny sphere than metal cubes right of the small brown matte sphere? Answer: yes. Output: no
+What size is the metallic thing that is the same color as the tiny rubber sphere? Answer: large. Output: The metallic thing is the same size as the tiny rubber sphere.
+There is a brown rubber thing; is its size the same as the red object that is left of the brown shiny object? Answer: yes. Output: no
+How many cylinders are either green matte things or gray metallic objects? Answer: 1. Output: There are three cylinders in the image, two of which are green matte objects and one is a gray metallic object.
+There is a gray cylinder that is the same material as the large block; what size is it? Answer: small. Output: small
+There is a red matte thing that is to the left of the large red cylinder; is its size the same as the green ball in front of the red cube? Answer: no. Output: no
+How many things are yellow rubber objects or small green metallic cubes? Answer: 1. Output: There are two small green metallic cubes.
+The small red object has what shape? Answer: cube. Output: cube
+What size is the cylinder that is the same color as the big metallic block? Answer: large. Output: The cylinder is the same size as the big metallic block.
+Does the big rubber cylinder to the left of the big red shiny cylinder have the same color as the large metallic block? Answer: yes. Output: no
+What material is the object that is the same color as the large shiny block? Answer: rubber. Output: The object that is the same color as the large shiny block is made of metal.
+Do the matte cylinder on the left side of the gray shiny object and the red thing have the same size? Answer: yes. Output: no
+Are there any large matte cylinders that have the same color as the tiny metal thing? Answer: yes. Output: No, there are no large matte cylinders that have the same color as the tiny metal thing.
+Is there a large cylinder to the left of the green matte cylinder behind the large gray block? Answer: yes. Output: no
+Is there a tiny green cube made of the same material as the large gray block? Answer: no. Output: Yes, there is a tiny green cube made of the same material as the large gray block.
+There is a big gray thing to the right of the gray object that is behind the gray metallic cube; what is its material? Answer: metal. Output: plastic
+There is a cylinder that is both in front of the gray matte object and left of the gray metallic cube; what is it made of? Answer: metal. Output: plastic
+Are there an equal number of large purple matte cubes right of the tiny green cylinder and big gray metal cubes? Answer: no. Output: No, there are more large purple matte cubes right of the tiny green cylinder than big gray metal cubes. Yes, there are an equal number of large purple matte cubes right of the tiny green cylinder and big gray metal cubes. No, there are more large purple matte cubes right of the tiny green cylinder than big gray metal cubes. Yes, there are an equal number of large purple matte cubes right of the tiny green cylinder and big gray metal cubes. No, there are more large purple matte cubes right of the tiny green cylinder than big gray metal cubes. Yes, there are an equal number of large purple matte cubes right of the tiny green cylinder and big gray metal cubes. No, there are more large purple matte cubes right of the tiny green cylinder than big gray metal cubes. Yes, there are an equal number of large purple matte cubes right of the tiny green cylinder and big gray metal cubes. No, there are more large purple matte cubes right of the tiny green cylinder than big gray metal cubes.
+Are there more gray objects that are left of the purple metal cube than large gray metal spheres on the left side of the gray shiny block? Answer: yes. Output: Yes, there are more gray objects that are left of the purple metal cube than large gray metal spheres on the left side of the gray shiny block.
+How many yellow metal things are the same size as the purple metallic block? Answer: 0. Output: There is one yellow metal thing that is the same size as the purple metallic block.
+Are there fewer things that are behind the large gray block than gray balls left of the matte cylinder? Answer: no. Output: yes
+Is there a large gray metallic object of the same shape as the red metal thing? Answer: yes. Output: Yes, there is a large gray metallic object of the same shape as the red metal thing.
+Is the small red thing the same shape as the small purple object? Answer: no. Output: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+How many large objects are gray rubber cylinders or purple cubes? Answer: 0. Output: There are three large objects that are gray rubber cylinders or purple cubes.
+Are there more rubber cylinders than matte things? Answer: no. Output: no
+What is the size of the cylinder that is made of the same material as the tiny purple object? Answer: large. Output: The cylinder that is made of the same material as the tiny purple object is much larger than the tiny purple object.
+Do the metal thing left of the tiny red sphere and the gray thing that is in front of the red ball have the same size? Answer: yes. Output: no
+What number of things are gray objects that are behind the blue rubber sphere or tiny shiny balls? Answer: 3. Output: three
+Is the color of the small metal sphere the same as the large matte sphere? Answer: no. Output: No, the color of the small metal sphere is different from the large matte sphere.
+What is the tiny red block made of? Answer: metal. Output: The tiny red block is made of metal.
+What size is the matte thing that is left of the large matte block? Answer: large. Output: 12 inches
+What number of red metal things have the same shape as the blue matte thing? Answer: 1. Output: 0
+The small yellow thing that is the same material as the small red thing is what shape? Answer: cube. Output: sphere
+How many gray things are either tiny metal cylinders or cylinders? Answer: 1. Output: There are three gray things that are either tiny metal cylinders or cylinders.
+There is a matte ball; are there any red matte objects in front of it? Answer: no. Output: yes
+Is the shape of the red metallic object to the left of the red rubber sphere the same as the big red thing that is behind the large red matte ball? Answer: no. Output: no
+What is the material of the red thing that is the same shape as the blue matte object? Answer: metal. Output: metal
+What number of cylinders are large blue objects or tiny objects? Answer: 1. Output: 1
+What material is the cylinder that is the same color as the small rubber cube? Answer: rubber. Output: The cylinder that is the same color as the small rubber cube is made of plastic.
+Is there anything else that has the same size as the gray cylinder? Answer: yes. Output: no
+How many balls are either rubber objects or tiny gray things? Answer: 1. Output: There are three rubber objects and one tiny gray thing.
+Is the material of the purple object the same as the tiny cube? Answer: no. Output: No, the material of the purple object is different from the tiny cube.
+What number of other things are there of the same color as the large matte object? Answer: 0. Output: 1
+There is a matte thing that is right of the large matte object; what shape is it? Answer: cylinder. Output: cube
+What number of objects are metal balls or purple things? Answer: 2. Output: 2
+There is a purple metallic object; is its size the same as the cyan rubber thing in front of the small purple object? Answer: yes. Output: no
+What number of other things are there of the same material as the green thing Answer: 4. Output: ? 3
+How many objects are things that are behind the big rubber thing or tiny rubber cylinders right of the big block? Answer: 6. Output: three
+How many other objects are the same color as the large rubber cylinder? Answer: 1. Output: There are three other objects that are the same color as the large rubber cylinder.
+Is there a gray object that has the same shape as the brown rubber thing? Answer: no. Output: yes
+Does the red sphere have the same material as the tiny cyan block in front of the large brown metallic object? Answer: no. Output: yes
+What is the color of the matte cylinder? Answer: yellow. Output: The matte cylinder is yellow.
+There is a big shiny ball behind the thing right of the big brown matte ball; how many objects are right of it? Answer: 5. Output: three
+Are there any yellow metal things in front of the cyan shiny block? Answer: yes. Output: Yes, there is a yellow metal thing in front of the cyan shiny block.
+What number of tiny cubes have the same material as the tiny cyan thing? Answer: 2. Output: 3
+How many things are cyan metallic cubes or large red objects? Answer: 2. Output: There are three cyan metallic cubes and one large red object in the image.
+Are there any large cyan metal balls? Answer: no. Output: No, there are no large cyan metal balls in the picture.
+What material is the large brown object that is in front of the big rubber thing that is behind the sphere right of the yellow rubber cylinder made of? Answer: rubber. Output: plastic
+What number of things are large red balls on the left side of the large brown rubber cylinder or tiny cyan rubber objects? Answer: 2. Output: one
+Are there the same number of cylinders that are to the left of the red metallic ball and tiny red things? Answer: yes. Output: no
+Does the green rubber thing have the same size as the green metal block? Answer: yes. Output: no
+There is a metal block that is the same size as the brown thing; what is its color? Answer: green. Output: green
+Is the size of the brown object the same as the cyan matte object that is to the right of the brown cylinder? Answer: no. Output: no
+What number of big metal blocks have the same color as the big cylinder? Answer: 0. Output: 1
+How many objects are either tiny blue things or metal things that are behind the big red ball? Answer: 2. Output: There are four objects that are either tiny blue things or metal things that are behind the big red ball.
+Does the cyan matte thing that is to the right of the matte cylinder have the same size as the yellow metallic object in front of the big green rubber thing? Answer: yes. Output: no
+Is there a big gray cylinder that has the same material as the tiny cyan thing? Answer: no. Output: yes
+What shape is the small cyan object? Answer: sphere. Output: square
+Does the ball that is right of the large ball have the same material as the large yellow sphere? Answer: no. Output: yes
+What number of blocks are big metal objects or big yellow objects? Answer: 2. Output: There are three big metal objects and one big yellow object.
+There is a tiny object left of the tiny shiny cylinder behind the large blue matte thing that is in front of the big yellow matte ball; what is its shape? Answer: cylinder. Output: sphere
+What is the shape of the small metal thing that is the same color as the tiny ball? Answer: cylinder. Output: sphere
+How many other spheres have the same size as the yellow ball? Answer: 0. Output: 1
+Are there any big rubber things that are in front of the tiny blue thing that is on the left side of the large yellow rubber object? Answer: yes. Output: no
+How many objects are tiny gray cylinders or big shiny cubes? Answer: 3. Output: There are three big shiny cubes and one tiny gray cylinder.
+What color is the rubber object that is on the left side of the small gray object on the left side of the small gray thing behind the tiny gray metal cylinder? Answer: blue. Output: The rubber object that is on the left side of the small gray object on the left side of the small gray thing behind the tiny gray metal cylinder is yellow.
+Is there anything else that is the same color as the big rubber sphere? Answer: no. Output: No
+Is the size of the blue rubber cube the same as the gray shiny cylinder? Answer: no. Output: No
+Do the big ball and the big metal thing have the same color? Answer: yes. Output: no
+What number of small things are either cylinders or cyan rubber spheres? Answer: 2. Output: 5
+Are there any other things that are the same color as the tiny matte sphere? Answer: no. Output: No, there are no other things that are the same color as the tiny matte sphere.
+Are there any metallic objects on the right side of the cyan rubber ball? Answer: yes. Output: Yes, there is a metallic object on the right side of the cyan rubber ball.
+How big is the cyan cylinder that is to the left of the purple thing that is behind the cyan sphere? Answer: small. Output: 12 inches
+Are there an equal number of large matte spheres to the right of the big purple object and tiny purple metallic cylinders that are on the left side of the large cyan matte thing? Answer: yes. Output: Yes, there are an equal number of large matte spheres to the right of the big purple object and tiny purple metallic cylinders that are on the left side of the large cyan matte thing.
+Is there a thing that is behind the cylinder that is on the left side of the big purple rubber cylinder? Answer: yes. Output: no
+How many big cyan cylinders are to the right of the purple cylinder behind the rubber ball on the right side of the cube? Answer: 1. Output: two
+Is the number of tiny matte spheres less than the number of small objects? Answer: yes. Output: Yes
+There is a large cyan object that is behind the large cyan matte object; is it the same shape as the small matte object that is in front of the tiny brown sphere? Answer: no. Output: no
+Is there any other thing that is the same material as the small cyan cylinder? Answer: no. Output: no
+What number of other objects are the same material as the small block? Answer: 6. Output: 3
+There is a small block; how many metal blocks are to the left of it? Answer: 1. Output: 2
+How many cubes are large blue objects or large cyan objects? Answer: 1. Output: There are three large blue objects or large cyan objects.
+There is a metal sphere that is both in front of the large cyan metallic cylinder and on the left side of the tiny cyan rubber cylinder; how big is it? Answer: small. Output: The metal sphere is about the same size as the large cyan metallic cylinder.
+What number of other objects are the same color as the small cube? Answer: 1. Output: 1
+Are the big green object and the tiny cylinder in front of the big sphere made of the same material? Answer: yes. Output: No, the big green object and the tiny cylinder are made of different materials.
+How many things are either tiny spheres that are in front of the small gray sphere or cubes? Answer: 3. Output: There are three tiny spheres and two cubes in front of the small gray sphere.
+What shape is the thing that is both on the left side of the large blue object and in front of the tiny metallic cylinder? Answer: sphere. Output: cube
+Is there anything else that has the same size as the matte cylinder? Answer: yes. Output: No
+Is there a yellow cylinder that has the same material as the big red ball? Answer: no. Output: yes
+Is the big matte thing the same color as the matte ball? Answer: no. Output: no
+There is a large cube that is on the left side of the cylinder and to the right of the green thing; what is it made of? Answer: metal. Output: metal
+What color is the large sphere? Answer: red. Output: The large sphere is red.
+How many other tiny rubber objects have the same shape as the gray matte object? Answer: 1. Output: One
+Are the big yellow thing to the left of the red ball and the yellow cube to the right of the blue matte thing made of the same material? Answer: yes. Output: no
+There is a yellow block that is behind the big object right of the large yellow cylinder; how big is it? Answer: large. Output: 10cm
+Is there any other thing that is the same size as the metallic sphere? Answer: yes. Output: No
+What is the material of the green object that is the same shape as the tiny gray object? Answer: metal. Output: Aluminum
+Do the yellow metal object that is to the right of the blue cube and the big yellow rubber object right of the small gray rubber object have the same shape? Answer: no. Output: no
+What is the material of the green cube? Answer: rubber. Output: The green cube is made of metal.
+What is the size of the red rubber thing that is the same shape as the cyan object? Answer: large. Output: small
+Do the tiny matte sphere and the small rubber cube have the same color? Answer: no. Output: Yes, the tiny matte sphere and the small rubber cube have the same color. No, the tiny matte sphere and the small rubber cube have different colors. Yes, the tiny matte sphere and the small rubber cube have the same color. No, the tiny matte sphere and the small rubber cube have different colors. Yes, the tiny matte sphere and the small rubber cube have the same color. No, the tiny matte sphere and the small rubber cube have different colors. Yes, the tiny matte sphere and the small rubber cube have the same color. No, the tiny matte sphere and the small rubber cube have different colors. Yes, the tiny matte sphere and the small rubber cube have the same color. No, the tiny matte sphere and the small rubber cube have different colors. Yes, the tiny matte sphere and the small rubber cube have the same color. No, the tiny matte sphere and the small rubber cube have different colors. Yes, the tiny matte sphere and the small rubber cube have the same color. No, the tiny matte sphere and the small rubber cube have different colors.
+How many other objects are there of the same material as the large green object? Answer: 4. Output: There are three other objects of the same material as the large green object.
+Are there the same number of tiny spheres to the right of the red matte object and big blocks? Answer: yes. Output: No
+Does the sphere that is behind the cyan ball have the same size as the big brown metal block? Answer: yes. Output: no
+What number of red rubber spheres are behind the big brown thing? Answer: 0. Output: 0
+There is a sphere that is both right of the matte cube and behind the large yellow sphere; what is its material? Answer: rubber. Output: gold
+What number of large objects are either green things or purple objects? Answer: 1. Output: 3
+How big is the yellow metallic sphere? Answer: large. Output: The yellow metallic sphere is about the size of a basketball.
+There is a tiny block right of the gray rubber cube; what material is it? Answer: rubber. Output: plastic
+What is the shape of the small thing that is the same color as the big metallic cube? Answer: cube. Output: The small thing that is the same color as the big metallic cube is a sphere.
+Are there any big yellow objects that have the same material as the tiny cyan sphere? Answer: no. Output: Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that have the same material as the tiny cyan sphere. Yes, there are big yellow objects that
+The gray rubber sphere has what size? Answer: large. Output: The gray rubber sphere has the size of an egg.
+How many cyan things are matte spheres or cylinders? Answer: 2. Output: 1
+How many gray matte objects have the same shape as the red matte thing? Answer: 1. Output: 0
+What number of blue shiny blocks are the same size as the matte cylinder? Answer: 0. Output: 1
+What material is the other large thing that is the same shape as the big gray rubber thing? Answer: rubber. Output: plastic
+There is a matte ball that is on the left side of the tiny purple matte thing; what color is it? Answer: gray. Output: blue
+Is the number of tiny red rubber spheres behind the small cyan matte sphere greater than the number of large purple metallic blocks? Answer: no. Output: no
+What is the material of the large thing that is the same color as the tiny rubber sphere? Answer: rubber. Output: The large thing that is the same color as the tiny rubber sphere is made of metal.
+How many objects are green balls or metal things in front of the purple cube? Answer: 3. Output: There are three green balls or metal things in front of the purple cube.
+What number of small matte cubes are left of the small red sphere that is to the right of the brown shiny cube that is behind the tiny gray object? Answer: 1. Output: three
+What is the material of the other brown block that is the same size as the brown rubber cube? Answer: metal. Output: plastic
+Is there a red shiny ball that has the same size as the rubber ball? Answer: yes. Output: yes
+The tiny shiny ball is what color? Answer: red. Output: red
+What is the color of the metallic object right of the green rubber thing that is in front of the small gray matte block? Answer: red. Output: silver
+There is a green object that is in front of the small ball that is in front of the brown thing that is behind the large blue block; what shape is it? Answer: cube. Output: square
+What number of tiny purple blocks have the same material as the green sphere? Answer: 1. Output: 0
+There is a matte thing that is to the left of the large green rubber cube; what number of tiny rubber things are to the right of it? Answer: 3. Output: three
+There is a big thing that is the same color as the large metallic cylinder; what shape is it? Answer: cube. Output: cube
+What number of green shiny objects have the same size as the purple sphere? Answer: 1. Output: 1
+There is a large gray thing that is on the right side of the ball; is its shape the same as the big gray metal thing that is behind the tiny blue shiny thing? Answer: no. Output: no
+What is the material of the blue block to the left of the gray object that is in front of the large gray thing that is behind the tiny green cube? Answer: rubber. Output: The material of the blue block to the left of the gray object that is in front of the large gray thing that is behind the tiny green cube is aluminum.
+There is a purple thing that is the same size as the green shiny cube; what is its shape? Answer: sphere. Output: sphere
+Is there a cylinder that has the same color as the big matte block? Answer: yes. Output: Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that has the same color as the big matte block. Yes, there is a cylinder that
+What is the size of the cyan object? Answer: small. Output: The size of the cyan object is not specified in the image.
+Is the yellow cube made of the same material as the large blue object? Answer: no. Output: No, the yellow cube is made of a different material than the large blue object.
+There is a tiny metallic cylinder in front of the gray metallic thing that is in front of the purple metal ball; what number of cylinders are on the right side of it? Answer: 1. Output: three
+What is the shape of the small metal thing to the right of the tiny purple ball? Answer: cube. Output: cube
+Are there the same number of big brown shiny cylinders that are behind the brown rubber thing and big blue blocks? Answer: no. Output: No
+There is a small sphere that is behind the matte cylinder on the right side of the metal block that is in front of the tiny purple rubber object; what is it made of? Answer: metal. Output: The small sphere that is behind the matte cylinder on the right side of the metal block that is in front of the tiny purple rubber object is made of plastic.
+There is a green object that is the same material as the large blue object; what is its shape? Answer: sphere. Output: cube
+Is there anything else that is the same color as the tiny cube? Answer: no. Output: No
+There is a sphere that is left of the object behind the purple block; what number of purple objects are in front of it? Answer: 0. Output: 1
+What number of purple objects are either tiny cubes or metal blocks? Answer: 1. Output: 0
+Do the blue metallic cube and the matte cylinder that is on the right side of the blue metal thing have the same size? Answer: yes. Output: no
+There is another object that is the same shape as the purple object; what is its material? Answer: metal. Output: metal
+What is the shape of the brown thing to the left of the matte cylinder right of the big matte object that is in front of the brown shiny cylinder? Answer: cylinder. Output: cube
+There is a object that is behind the small yellow metallic object and in front of the brown matte object; what shape is it? Answer: sphere. Output: cube
+Are the green cube behind the tiny brown sphere and the large cube that is in front of the small brown matte sphere made of the same material? Answer: yes. Output: No, the green cube behind the tiny brown sphere and the large cube in front of the small brown matte sphere are not made of the same material. The green cube is made of metal, while the large cube in front of the small brown matte sphere is made of plastic.
+There is a big object to the left of the purple shiny thing; is there a large yellow object behind it? Answer: no. Output: no
+What color is the tiny sphere that is made of the same material as the red block? Answer: brown. Output: The tiny sphere that is made of the same material as the red block is green.
+Is the number of big purple cubes greater than the number of small cyan rubber objects? Answer: no. Output: no
+What number of things are either green rubber things that are in front of the tiny cyan cylinder or large green objects? Answer: 2. Output: three
+Are there any purple shiny blocks that have the same size as the brown ball? Answer: yes. Output: Yes, there are purple shiny blocks that have the same size as the brown ball.
+Are there fewer purple metallic cubes than large blue spheres? Answer: no. Output: Yes
+How many cylinders are tiny purple things or green things? Answer: 0. Output: 1
+What number of rubber cubes have the same color as the small matte ball? Answer: 0. Output: 1
+What is the size of the object that is right of the small purple block and in front of the brown thing? Answer: large. Output: 10 cm
+What is the size of the gray object that is the same shape as the tiny purple rubber object? Answer: small. Output: 10 times larger
+How big is the sphere that is in front of the big yellow object and left of the yellow cylinder? Answer: small. Output: small
+Is the yellow ball made of the same material as the thing in front of the metal block? Answer: yes. Output: Yes, the yellow ball is made of the same material as the thing in front of the metal block. No, the yellow ball is made of a different material than the thing in front of the metal block. Yes, the yellow ball is made of the same material as the thing in front of the metal block. No, the yellow ball is made of a different material than the thing in front of the metal block. Yes, the yellow ball is made of the same material as the thing in front of the metal block. No, the yellow ball is made of a different material than the thing in front of the metal block. Yes, the yellow ball is made of the same material as the thing in front of the metal block. No, the yellow ball is made of a different material than the thing in front of the metal block. Yes, the yellow ball is made of the same material as the thing in front of the metal block. No, the yellow ball is made of a different material than the thing in front of the metal block. Yes, the yellow ball is made of the same material as the thing in front of the metal block. No, the yellow ball is made of a different material than the thing in front of the metal block.
+Are there fewer yellow matte balls that are in front of the big sphere than tiny purple objects that are behind the small purple metal sphere? Answer: no. Output: yes
+There is a large object behind the small yellow object; what material is it? Answer: metal. Output: The large object behind the small yellow object is made of metal.
+There is a object that is to the left of the small purple matte thing and on the right side of the brown metal block; what color is it? Answer: yellow. Output: purple
+How many other objects are there of the same color as the large metal cylinder? Answer: 1. Output: There are three other objects of the same color as the large metal cylinder.
+What color is the small shiny ball that is on the right side of the tiny gray thing? Answer: purple. Output: purple
+Is there a purple metallic ball of the same size as the yellow rubber ball? Answer: no. Output: Yes, there is a purple metallic ball of the same size as the yellow rubber ball.
+What is the material of the purple object that is the same size as the yellow sphere? Answer: rubber. Output: The material of the purple object that is the same size as the yellow sphere is plastic.
+What is the shape of the thing that is the same color as the tiny block? Answer: cylinder. Output: sphere
+Is the color of the ball that is to the right of the cyan cube the same as the rubber cube? Answer: no. Output: no
+There is a big cyan metallic object behind the large purple thing; how many small metal blocks are behind it? Answer: 0. Output: three
+What color is the other cylinder that is the same size as the cyan metallic cylinder? Answer: gray. Output: purple
+There is a big cube that is on the right side of the large purple thing; what is its material? Answer: metal. Output: metal
+The cube that is behind the cyan metal cylinder and in front of the big brown matte cube is made of what material? Answer: metal. Output: The cube that is behind the cyan metal cylinder and in front of the big brown matte cube is made of aluminum.
+There is a cylinder right of the gray thing; does it have the same size as the cyan shiny block? Answer: no. Output: no
+What is the shape of the big purple object? Answer: sphere. Output: The big purple object is a sphere.
+What number of big cyan metallic things are the same shape as the gray metallic thing? Answer: 1. Output: 1
+What number of things are in front of the big cyan cylinder and behind the purple thing? Answer: 1. Output: three
+What is the green thing made of? Answer: rubber. Output: The green thing is made of plastic.
+There is a metal thing that is right of the cyan rubber sphere; is its size the same as the green matte ball? Answer: yes. Output: no
+What number of things are either blocks or yellow metal cylinders? Answer: 2. Output: 5
+The large shiny object that is the same color as the small rubber block is what shape? Answer: cube. Output: cube
+There is a rubber thing that is both to the left of the large matte cylinder and behind the tiny purple cylinder; how big is it? Answer: small. Output: small
+What number of matte objects are there? Answer: 5. Output: 5
+How many cylinders are either green objects or brown metallic things? Answer: 1. Output: There are three cylinders in the image, two of which are green objects and one of which is a brown metallic thing.
+There is a cyan thing on the left side of the big cylinder on the right side of the brown shiny cylinder; how many brown rubber spheres are right of it? Answer: 1. Output: one
+What is the color of the metal cylinder that is the same size as the green object? Answer: purple. Output: The color of the metal cylinder that is the same size as the green object is blue.
+How many other objects are there of the same color as the tiny matte block? Answer: 2. Output: There are three other objects of the same color as the tiny matte block.
+What size is the cylinder that is the same color as the large block? Answer: small. Output: The cylinder is the same size as the large block.
+There is a object that is the same color as the shiny cylinder; what is its shape? Answer: cube. Output: sphere
+How many rubber objects are either brown cylinders or large red things? Answer: 0. Output: There is one rubber object, which is a large red thing.
+There is a big metallic thing behind the large metallic thing that is in front of the shiny cube on the left side of the red rubber thing; what color is it? Answer: cyan. Output: red
+The other big object that is the same shape as the big cyan metal thing is what color? Answer: green. Output: red
+Is there anything else that is the same color as the large ball? Answer: no. Output: No
+How many other things are there of the same material as the small blue object? Answer: 4. Output: There are three other things of the same material as the small blue object.
+How big is the matte cube? Answer: small. Output: The matte cube is about the size of a basketball.
+Are there any other tiny blue matte objects of the same shape as the small blue thing? Answer: no. Output: no
+How many objects are either tiny yellow matte cubes or big cylinders right of the large green matte thing? Answer: 1. Output: three
+What number of small things are the same shape as the big purple object? Answer: 0. Output: 1
+Does the large brown cube have the same material as the red object in front of the tiny purple shiny block? Answer: yes. Output: yes
+Is the number of purple things that are behind the big brown metal cube greater than the number of small brown rubber cubes? Answer: yes. Output: yes
+The big thing that is the same color as the tiny metallic thing is what shape? Answer: cylinder. Output: cube
+Are there any big objects that have the same material as the large purple cylinder? Answer: yes. Output: Yes, there are several big objects that have the same material as the large purple cylinder.
+Do the large object behind the yellow cube and the small object in front of the ball have the same material? Answer: no. Output: no
+Is the number of purple matte objects on the left side of the small cyan ball the same as the number of large cubes that are behind the red cylinder? Answer: yes. Output: no
+There is a block that is the same size as the brown metallic thing; what is its color? Answer: red. Output: red
+Are there any big rubber cylinders that have the same color as the rubber cube? Answer: no. Output: No, there are no big rubber cylinders that have the same color as the rubber cube.
+How many things are either metallic things left of the yellow object or purple cubes? Answer: 1. Output: There are three metallic things left of the yellow object and two purple cubes.
+What number of objects are either yellow metal spheres or small brown metal blocks behind the large cube? Answer: 1. Output: There are three yellow metal spheres and two small brown metal blocks behind the large cube.
+Do the yellow rubber object that is in front of the tiny yellow matte sphere and the rubber sphere that is on the right side of the big gray metallic thing have the same size? Answer: yes. Output: Yes, the yellow rubber object that is in front of the tiny yellow matte sphere and the rubber sphere that is on the right side of the big gray metallic thing have the same size.
+How many other matte things are the same shape as the small brown object? Answer: 3. Output: 3
+What is the shape of the big object that is made of the same material as the green ball? Answer: cube. Output: The big object that is made of the same material as the green ball is a sphere.
+The yellow thing that is to the right of the metallic thing that is behind the metallic object that is in front of the small blue matte thing is made of what material? Answer: rubber. Output: plastic
+There is a gray shiny thing; is it the same size as the yellow rubber cube to the right of the large yellow rubber block? Answer: no. Output: no
+There is a big gray object that is the same shape as the large green rubber object; what material is it? Answer: metal. Output: metal
+What is the size of the rubber thing that is in front of the tiny yellow thing to the right of the blue block that is behind the yellow matte ball? Answer: small. Output: small
+Do the red thing and the green object have the same size? Answer: no. Output: no
+What is the material of the green object that is to the left of the yellow rubber thing that is right of the small brown shiny cube? Answer: rubber. Output: plastic
+Is there a sphere that has the same color as the tiny cylinder? Answer: no. Output: Yes, there is a sphere that has the same color as the tiny cylinder. Yes, there is a sphere that has the same color as the tiny cylinder.
+What is the color of the metal object that is behind the metal cylinder? Answer: brown. Output: The color of the metal object that is behind the metal cylinder is blue.
+Are there any small brown blocks that are behind the cylinder that is right of the big red matte cube? Answer: yes. Output: yes
+Do the large rubber cube and the tiny thing on the left side of the purple block have the same color? Answer: no. Output: no
+Are there any green cylinders that have the same material as the cyan cylinder? Answer: no. Output: no
+How many large blue metallic cylinders are there? Answer: 1. Output: There are two large blue metallic cylinders.
+There is a block that is behind the metal object behind the blue metal thing; what is it made of? Answer: rubber. Output: plastic
+What is the color of the ball that is the same material as the cyan block? Answer: yellow. Output: yellow
+What is the shape of the thing that is the same color as the big matte cylinder? Answer: sphere. Output: sphere
+Do the yellow ball left of the small shiny cube and the cube that is on the right side of the large cube have the same size? Answer: no. Output: no
+Do the small rubber sphere on the right side of the tiny brown thing and the big matte block have the same color? Answer: no. Output: no
+There is a large thing that is in front of the red thing that is behind the large gray rubber cube; what is its shape? Answer: cube. Output: cube
+Is the number of tiny cubes that are on the left side of the small purple sphere less than the number of red metal things in front of the small brown rubber ball? Answer: no. Output: yes
+What size is the gray thing that is the same shape as the tiny green shiny object? Answer: large. Output: 10 feet
+What number of objects are small rubber spheres that are behind the tiny rubber cylinder or large matte objects in front of the red metallic cylinder? Answer: 2. Output: There are three small rubber spheres that are behind the tiny rubber cylinder or large matte objects in front of the red metallic cylinder.
+Do the purple metal cube and the red thing have the same size? Answer: no. Output: no
+Are there more big gray rubber blocks than small red balls? Answer: yes. Output: Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls. Yes, there are more big gray rubber blocks than small red balls.
+What number of other things are the same color as the large metallic cylinder? Answer: 0. Output: 1
+How many objects are big red cylinders or blue blocks? Answer: 1. Output: There are two big red cylinders and one blue block.
+Is the shape of the tiny thing that is to the right of the big gray matte block the same as  the brown rubber thing? Answer: no. Output: no
+Are there any other things that are the same size as the metal block? Answer: yes. Output: No
+What number of red spheres are the same size as the red shiny thing? Answer: 0. Output: 0
+There is a matte thing that is the same color as the tiny metallic cube; what is its shape? Answer: sphere. Output: sphere
+What is the material of the brown sphere? Answer: metal. Output: The brown sphere is made of metal.
+There is a cylinder that is left of the tiny rubber block; what size is it? Answer: large. Output: small
+How many blue metal things have the same shape as the large brown metal object? Answer: 0. Output: There are two blue metal things that have the same shape as the large brown metal object.
+The big red object that is the same material as the tiny gray thing is what shape? Answer: sphere. Output: sphere
+How many brown objects are large cubes or large matte cylinders? Answer: 1. Output: There are two brown objects that are large cubes or large matte cylinders.
+Are there any tiny gray shiny cylinders in front of the rubber cylinder? Answer: no. Output: No, there are no tiny gray shiny cylinders in front of the rubber cylinder.
+There is a blue thing that is left of the small gray shiny object; is it the same shape as the large brown object in front of the small gray metallic thing? Answer: no. Output: no
+Is there anything else that has the same size as the gray ball? Answer: no. Output: No
+Is the number of tiny metallic things that are behind the small red matte object less than the number of tiny blocks behind the gray ball? Answer: yes. Output: yes
+What shape is the red thing that is the same material as the brown object? Answer: cube. Output: cube
+There is a cube to the left of the red thing left of the big thing; what is its color? Answer: brown. Output: red
+What is the material of the tiny cylinder that is in front of the red thing that is to the left of the cylinder right of the yellow cylinder? Answer: metal. Output: aluminum
+What number of red rubber things are the same size as the red block? Answer: 0. Output: 1
+What is the sphere that is both on the left side of the red shiny thing and behind the small gray metal object made of? Answer: rubber. Output: The sphere that is both on the left side of the red shiny thing and behind the small gray metal object is made of metal.
+How many red shiny spheres are to the right of the brown rubber thing? Answer: 1. Output: 1
+Do the small brown thing and the tiny red object that is to the left of the small gray object have the same shape? Answer: yes. Output: no
+Is there a yellow matte thing of the same shape as the large metal thing? Answer: yes. Output: yes
+What is the tiny sphere in front of the small shiny sphere behind the green metallic cylinder made of? Answer: metal. Output: The tiny sphere in front of the small shiny sphere behind the green metallic cylinder is made of glass.
+Do the green metallic thing and the red shiny cube have the same size? Answer: yes. Output: Yes, the green metallic thing and the red shiny cube have the same size.
+What number of objects are either brown rubber spheres or small brown objects? Answer: 1. Output: There are three brown rubber spheres and one small brown object.
+There is a matte cylinder that is right of the large cyan rubber cylinder and left of the blue thing; what is its size? Answer: small. Output: small
+Is the number of small brown matte things in front of the tiny block less than the number of cyan things? Answer: yes. Output: yes
+There is a red thing that is made of the same material as the big gray thing; what shape is it? Answer: cube. Output: cube
+Is the shape of the gray metal thing on the right side of the small brown object the same as the matte thing that is to the right of the tiny gray metal thing? Answer: no. Output: no
+Are there fewer tiny balls in front of the tiny shiny cylinder than big cubes that are in front of the red thing? Answer: no. Output: yes
+What is the shape of the shiny object that is the same color as the large cube? Answer: sphere. Output: The shiny object that is the same color as the large cube is a sphere.
+What number of brown matte objects are the same size as the cyan thing? Answer: 0. Output: 0
+Are there fewer tiny objects than big matte cylinders? Answer: no. Output: yes
+Is the material of the purple cube the same as the green cylinder? Answer: no. Output: No
+There is a ball that is both left of the tiny green ball and behind the small gray rubber thing; what color is it? Answer: purple. Output: green
+Are there any purple balls of the same size as the gray thing? Answer: no. Output: Yes
+How big is the rubber ball on the right side of the brown cylinder that is in front of the cube? Answer: large. Output: 1.5 feet
+Are there fewer purple things on the right side of the small green metallic object than large cyan metal cylinders? Answer: no. Output: yes
+Is the tiny shiny block the same color as the big ball? Answer: yes. Output: No
+What is the size of the purple sphere? Answer: large. Output: The size of the purple sphere is not specified in the image.
+How many large matte cylinders are the same color as the big rubber ball? Answer: 1. Output: There are two large matte cylinders that are the same color as the big rubber ball.
+Are there any small gray things that are to the right of the big object to the right of the large cylinder that is in front of the large brown rubber object? Answer: no. Output: Yes, there are small gray things that are to the right of the big object to the right of the large cylinder that is in front of the large brown rubber object.
+How many objects are big balls left of the small gray rubber sphere or blue rubber objects that are on the right side of the big purple shiny block? Answer: 3. Output: There are three big balls left of the small gray rubber sphere or blue rubber objects that are on the right side of the big purple shiny block.
+There is a metal thing to the right of the big yellow shiny object; does it have the same color as the small sphere? Answer: no. Output: no
+How many matte things are big yellow objects or tiny yellow blocks? Answer: 0. Output: There are three small yellow blocks and one big yellow object.
+The cyan metallic thing has what shape? Answer: sphere. Output: sphere
+Are there any other things that have the same material as the small sphere? Answer: yes. Output: Yes, there are other objects in the image that have the same material as the small sphere. There are several other objects in the image that have the same material as the small sphere, including a cube and a sphere.
+Is the material of the gray ball the same as the large purple block? Answer: no. Output: No
+Is there a large metal object that is right of the large purple block behind the big metallic ball right of the big yellow shiny ball? Answer: yes. Output: no
+How many other things are there of the same shape as the big blue rubber thing? Answer: 3. Output: 0
+There is a matte object that is on the right side of the large metal block and in front of the small gray matte thing; what shape is it? Answer: sphere. Output: sphere
+There is a big metallic sphere in front of the thing on the right side of the tiny object to the right of the large cyan metallic thing; what is its color? Answer: cyan. Output: blue
+What is the shape of the large thing that is in front of the ball on the right side of the rubber cylinder on the right side of the gray matte thing? Answer: sphere. Output: sphere
+There is a brown thing that is the same shape as the purple rubber thing; what is its size? Answer: small. Output: small
+How big is the metal thing that is both to the right of the small purple block and behind the metallic sphere? Answer: small. Output: 1/2 inch
+There is a big rubber thing that is the same color as the big rubber ball; what shape is it? Answer: cylinder. Output: sphere
+What is the color of the big rubber ball? Answer: red. Output: The big rubber ball is red.
+There is a object that is behind the large red cylinder; what is its size? Answer: small. Output: small
+There is a small sphere to the right of the sphere in front of the brown thing; how many red rubber cylinders are in front of it? Answer: 0. Output: two
+There is a small shiny cube that is on the right side of the cube that is on the left side of the small purple ball; what color is it? Answer: purple. Output: gold
+Is there a metal ball that has the same size as the green object? Answer: yes. Output: Yes, there is a metal ball that has the same size as the green object.
+What material is the small cylinder in front of the large matte object behind the purple object in front of the small purple matte sphere made of? Answer: metal. Output: The small cylinder in front of the large matte object behind the purple object in front of the small purple matte sphere is made of metal.
+What material is the small sphere that is the same color as the big rubber ball? Answer: metal. Output: The small sphere that is the same color as the big rubber ball is made of plastic.
+Is there a large matte thing that has the same shape as the tiny red metallic object? Answer: yes. Output: no
+How many tiny metallic things are left of the big red sphere? Answer: 2. Output: Two
+The gray object that is to the left of the small metallic cube to the right of the cylinder is made of what material? Answer: metal. Output: plastic
+There is another ball that is the same size as the green ball; what material is it? Answer: rubber. Output: metal
+Is there a cyan rubber thing that has the same size as the green block? Answer: yes. Output: yes
+There is a metal cube that is left of the matte cube; what color is it? Answer: gray. Output: green
+There is a cube that is right of the big matte sphere; are there any big cyan objects that are behind it? Answer: no. Output: no
+What number of other things are there of the same color as the matte block? Answer: 1. Output: 1
+Do the red sphere that is behind the small red metal ball and the gray metallic thing left of the tiny gray metal thing have the same size? Answer: yes. Output: no
+Are there any matte cylinders of the same color as the big block? Answer: no. Output: Yes, there are matte cylinders of the same color as the big block.
+There is a cylinder that is the same color as the big block; what is its material? Answer: metal. Output: metal
+There is a metallic thing that is the same color as the big metal cylinder; what is its size? Answer: large. Output: small
+Does the big matte thing have the same color as the big shiny cylinder? Answer: no. Output: no
+There is a small brown object that is made of the same material as the large gray cylinder; what is its shape? Answer: cube. Output: sphere
+Is there anything else that has the same color as the big block? Answer: yes. Output: No
+What color is the metal cylinder on the left side of the metallic cylinder in front of the yellow cylinder? Answer: yellow. Output: The metal cylinder on the left side of the metallic cylinder in front of the yellow cylinder is silver.
+There is a brown object in front of the large shiny thing in front of the large gray shiny thing that is on the left side of the brown block; what is it made of? Answer: rubber. Output: The large shiny thing on the left side of the brown block is made of metal.
+How many rubber objects have the same size as the gray shiny cylinder? Answer: 1. Output: There are two rubber objects that have the same size as the gray shiny cylinder.
+There is a thing that is both in front of the small blue sphere and to the right of the small brown rubber cylinder; what is its material? Answer: metal. Output: metal
+There is a tiny ball that is right of the big ball behind the green matte cylinder; what color is it? Answer: green. Output: green
+What number of big things are either metallic things or cyan metallic objects? Answer: 3. Output: 3
+What number of large red cylinders are made of the same material as the cyan thing? Answer: 0. Output: 0
+What size is the cube that is left of the large gray sphere? Answer: large. Output: The size of the cube that is left of the large gray sphere is small.
+The green object that is behind the small green metal ball to the right of the matte cube is what shape? Answer: sphere. Output: sphere
+There is a big sphere that is to the right of the large gray metal sphere on the right side of the green cylinder; how many tiny green rubber cylinders are behind it? Answer: 1. Output: three
+Is the number of big blocks that are in front of the gray metallic thing less than the number of metallic blocks? Answer: yes. Output: yes
+Is there any other thing that is the same shape as the small green rubber object? Answer: yes. Output: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+There is a tiny green thing right of the big gray sphere; what shape is it? Answer: sphere. Output: sphere
+There is a green object that is right of the cylinder in front of the tiny rubber object that is on the left side of the big blue block; what is its shape? Answer: sphere. Output: sphere
+How many other things are there of the same size as the cyan rubber thing? Answer: 4. Output: 3
+The tiny cube that is right of the blue object behind the rubber cylinder on the left side of the brown cube is what color? Answer: purple. Output: green
+How many other things are there of the same shape as the large red thing? Answer: 1. Output: 1
+The tiny purple object to the right of the big red metal thing has what shape? Answer: cube. Output: sphere
+Are there any large cyan matte spheres in front of the large brown thing that is behind the large brown block? Answer: no. Output: Yes, there is a large cyan matte sphere in front of the large brown thing that is behind the large brown block.
+What is the color of the large matte thing that is both to the right of the small blue sphere and behind the green rubber thing? Answer: cyan. Output: purple
+Are there any big rubber balls left of the brown object on the left side of the large cylinder that is behind the green thing? Answer: no. Output: no
+The metal object that is the same shape as the green rubber object is what size? Answer: large. Output: small
+Is there any other thing that has the same material as the big green cylinder? Answer: yes. Output: no
+Is there a tiny purple object? Answer: yes. Output: yes
+The large cyan metal object to the left of the large shiny thing to the right of the small red shiny sphere is what shape? Answer: cube. Output: cube
+Is the number of things in front of the big yellow rubber cylinder less than the number of small green things that are in front of the small blue shiny thing? Answer: no. Output: yes
+There is a red thing that is the same shape as the green object; what size is it? Answer: large. Output: small
+What number of things are either things that are in front of the large red metal cube or red objects on the right side of the green metal thing? Answer: 4. Output: three
+Do the yellow matte thing and the green metallic thing have the same size? Answer: no. Output: Yes, the yellow matte thing and the green metallic thing have the same size. No, the yellow matte thing and the green metallic thing have different sizes. Yes, the yellow matte thing and the green metallic thing have the same size. No, the yellow matte thing and the green metallic thing have different sizes. Yes, the yellow matte thing and the green metallic thing have the same size. No, the yellow matte thing and the green metallic thing have different sizes. Yes, the yellow matte thing and the green metallic thing have the same size. No, the yellow matte thing and the green metallic thing have different sizes. Yes, the yellow matte thing and the green metallic thing have the same size. No, the yellow matte thing and the green metallic thing have different sizes. Yes, the yellow matte thing and the green metallic thing have the same size. No, the yellow matte thing and the green metallic thing have different sizes. Yes, the yellow matte thing and the green metallic thing have the same size. No, the yellow matte thing and the green metallic thing
+Is the number of green shiny cylinders greater than the number of cyan shiny objects? Answer: no. Output: no
+What number of other objects are there of the same color as the big matte cylinder? Answer: 1. Output: two
+How many things are shiny spheres or green blocks? Answer: 4. Output: There are three shiny spheres and one green block.
+There is a yellow object that is right of the small yellow shiny sphere; does it have the same shape as the tiny blue object? Answer: no. Output: no
+There is a metal block behind the yellow object that is behind the tiny blue thing; what is its color? Answer: cyan. Output: red
+There is a tiny rubber object that is behind the cyan thing that is left of the cyan rubber cylinder; how many cyan balls are on the right side of it? Answer: 0. Output: one
+What number of big green cubes are there? Answer: 0. Output: 1
+Is the number of red things in front of the large cylinder less than the number of big balls that are to the right of the gray matte cube? Answer: yes. Output: yes
+Are there fewer cylinders that are to the left of the small brown rubber sphere than big gray rubber blocks? Answer: no. Output: yes
+What material is the cylinder that is behind the cylinder in front of the rubber thing to the right of the gray thing? Answer: rubber. Output: metal
+How many objects are either large blocks on the right side of the big cyan matte cube or cyan matte things that are to the left of the big cyan rubber cylinder? Answer: 3. Output: There are three objects that are either large blocks on the right side of the big cyan matte cube or cyan matte things that are to the left of the big cyan rubber cylinder.
+There is a big yellow object that is the same shape as the big cyan metal object; what is its material? Answer: metal. Output: metal
+How many matte things are red cylinders or large cyan cylinders? Answer: 2. Output: 1
+What shape is the big yellow thing that is made of the same material as the big yellow sphere? Answer: cube. Output: cube
+What number of small red matte things have the same shape as the brown object? Answer: 0. Output: 1
+There is a purple matte thing that is right of the tiny sphere that is in front of the big object in front of the cyan thing; what shape is it? Answer: cylinder. Output: sphere
+Are there any tiny red blocks made of the same material as the purple ball? Answer: no. Output: Yes, there are tiny red blocks made of the same material as the purple ball.
+There is a tiny metal cylinder that is to the right of the big cylinder; is it the same color as the large object that is to the right of the gray matte cylinder? Answer: yes. Output: no
+Are there fewer purple matte things that are to the left of the brown cylinder than small cyan rubber objects? Answer: yes. Output: yes
+How many objects are tiny gray matte objects or purple rubber objects that are to the left of the tiny metallic cylinder? Answer: 3. Output: There are three tiny gray matte objects or purple rubber objects that are to the left of the tiny metallic cylinder.
+There is a big thing that is the same material as the purple cylinder; what color is it? Answer: gray. Output: green
+How many objects are either brown shiny objects or matte cylinders? Answer: 4. Output: There are three brown shiny objects and two matte cylinders in the image.
+What is the color of the shiny cylinder that is the same size as the brown rubber thing? Answer: green. Output: The shiny cylinder that is the same size as the brown rubber thing is green.
+What number of things are either tiny rubber cylinders to the left of the large green block or tiny green metallic cylinders? Answer: 3. Output: three
+How many other things are there of the same size as the brown cylinder? Answer: 5. Output: 3
+What number of small things are matte balls or gray cylinders? Answer: 2. Output: 5
+Is there a large yellow matte object? Answer: yes. Output: Yes, there is a large yellow matte object.
+Is the number of tiny gray matte spheres to the right of the yellow object greater than the number of large gray shiny cubes that are on the left side of the gray ball? Answer: no. Output: yes
+There is a object that is on the left side of the small object in front of the big brown thing; what is its color? Answer: brown. Output: blue
+Is there a rubber sphere that has the same color as the large block? Answer: yes. Output: Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there is a rubber sphere that has the same color as the large block. Yes, there
+There is a matte sphere that is behind the matte ball that is right of the large metallic cylinder to the right of the blue cylinder; how big is it? Answer: small. Output: small
+What is the shape of the green matte object? Answer: sphere. Output: The green matte object is a sphere.
+There is a metallic object that is the same color as the large metal block; what size is it? Answer: large. Output: small
+There is a big gray thing that is left of the cube; what number of large metallic things are on the right side of it? Answer: 1. Output: three
+What number of other objects are there of the same material as the cube? Answer: 3. Output: 4
+How many other things are the same shape as the brown shiny object? Answer: 3. Output: 3
+Are there any metallic things that have the same color as the big block? Answer: yes. Output: Yes, there are metallic things that have the same color as the big block.
+Is the color of the large cylinder that is behind the large matte cylinder the same as the tiny thing that is behind the big gray object? Answer: yes. Output: Yes, the color of the large cylinder that is behind the large matte cylinder is the same as the tiny thing that is behind the big gray object.
+There is a big brown matte thing; what shape is it? Answer: cylinder. Output: sphere
+What number of small gray things are in front of the large brown object? Answer: 0. Output: There are three small gray things in front of the large brown object.
+What number of other big cubes have the same material as the red block? Answer: 0. Output: 3
+Is the material of the cylinder that is right of the big brown matte cylinder the same as the big red block? Answer: yes. Output: no
+Is there a blue matte cylinder? Answer: no. Output: no
+What size is the red object that is to the left of the gray metallic block and in front of the red block? Answer: large. Output: The size of the red object that is to the left of the gray metallic block and in front of the red block is small.
+Is the number of tiny shiny cubes on the right side of the big gray metal cylinder greater than the number of large red cylinders on the left side of the small brown cylinder? Answer: no. Output: yes
+What number of small cubes are in front of the tiny cube that is on the left side of the small sphere on the left side of the tiny green rubber object? Answer: 1. Output: three
+What is the size of the matte thing that is the same color as the matte cylinder? Answer: small. Output: small
+Are there any red spheres to the left of the gray metal thing? Answer: no. Output: Yes, there is a red sphere to the left of the gray metal thing.
+There is a small gray matte thing; what shape is it? Answer: cube. Output: cube
+There is a green thing on the right side of the gray block that is left of the tiny green ball that is behind the large metal sphere; what is its shape? Answer: sphere. Output: cube
+What number of other objects are the same shape as the red shiny object? Answer: 2. Output: 1
+What material is the block that is right of the small cube that is in front of the brown rubber thing? Answer: rubber. Output: metal
+Are there any other things that have the same size as the green cylinder? Answer: yes. Output: no
+Is the large red object made of the same material as the gray thing in front of the red sphere? Answer: no. Output: No
+What is the material of the thing that is both left of the blue metallic object and in front of the small yellow object? Answer: rubber. Output: The material of the thing that is both left of the blue metallic object and in front of the small yellow object is plastic.
+Do the red matte object and the large metallic object have the same shape? Answer: no. Output: no
+There is a tiny purple thing that is the same material as the gray block; what shape is it? Answer: sphere. Output: cube
+Does the green thing that is to the left of the tiny red matte ball have the same size as the cube right of the green shiny thing? Answer: yes. Output: no
+Are there more red rubber spheres that are in front of the small red rubber object than small gray rubber cubes in front of the small gray matte cube? Answer: no. Output: Yes, there are more red rubber spheres in front of the small red rubber object than small gray rubber cubes in front of the small gray matte cube.
+What number of other things are there of the same color as the small metal cylinder? Answer: 2. Output: 1
+Does the small matte cube have the same color as the rubber object that is in front of the tiny matte block? Answer: no. Output: no
+How many metal objects are to the left of the red rubber object that is in front of the small green shiny thing? Answer: 1. Output: There are two metal objects to the left of the red rubber object that is in front of the small green shiny thing.
+Are there any other things that have the same material as the small red ball? Answer: yes. Output: Yes, there are other objects in the picture that have the same material as the small red ball.
+The small object that is behind the big green rubber thing that is in front of the large purple shiny thing behind the small red rubber sphere is made of what material? Answer: metal. Output: The small object that is behind the big green rubber thing that is in front of the large purple shiny thing behind the small red rubber sphere is made of metal.
+What is the big object that is both right of the tiny rubber cube and left of the tiny purple rubber sphere made of? Answer: rubber. Output: Aluminum
+What number of small metallic things have the same color as the big sphere? Answer: 1. Output: 1
+There is a large ball that is the same color as the tiny metal block; what is its material? Answer: rubber. Output: plastic
+There is a big cube that is to the left of the big brown matte thing; does it have the same color as the big matte ball? Answer: yes. Output: no
+How many other things are the same color as the big matte ball? Answer: 2. Output: 1
+The metal object that is in front of the brown thing in front of the blue sphere that is behind the big metal cylinder is what shape? Answer: cylinder. Output: cylinder
+What color is the large metal object that is in front of the shiny block that is on the left side of the green metal block that is to the right of the large red rubber cylinder? Answer: purple. Output: The large metal object that is in front of the shiny block that is on the left side of the green metal block that is to the right of the large red rubber cylinder is silver.
+Does the large red thing behind the big purple metal thing have the same material as the tiny thing that is on the left side of the tiny gray object? Answer: no. Output: yes
+How many things are green blocks that are right of the big green shiny object or matte spheres? Answer: 3. Output: There are three green blocks that are right of the big green shiny object or matte spheres.
+How many things are either gray matte balls or shiny cubes to the right of the purple cylinder? Answer: 2. Output: three
+How many other objects are the same size as the brown thing? Answer: 4. Output: 1
+What is the gray ball made of? Answer: metal. Output: It is not clear what the gray ball is made of.
+Does the big matte sphere have the same color as the big block behind the big metallic cube? Answer: no. Output: no
+There is a large brown thing; how many objects are in front of it? Answer: 3. Output: 5
+Are there fewer tiny things that are right of the tiny blue cylinder than cyan objects? Answer: yes. Output: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+The metallic cube has what color? Answer: purple. Output: purple.
+Do the matte cube behind the large gray object and the metallic sphere have the same color? Answer: no. Output: No, the matte cube and the metallic sphere have different colors.
+What is the color of the small rubber object that is the same shape as the cyan shiny object? Answer: blue. Output: The small rubber object that is the same shape as the cyan shiny object is red.
+What number of big objects are matte balls or cylinders? Answer: 3. Output: 4
+What size is the purple block that is left of the big rubber cube? Answer: large. Output: 12 inches
+Is there another shiny cylinder of the same color as the metal cylinder? Answer: no. Output: Yes, there is another shiny cylinder of the same color as the metal cylinder.
+Is the number of big green balls greater than the number of blue objects? Answer: no. Output: no
+What number of small objects are behind the cyan rubber sphere and in front of the small gray cylinder? Answer: 2. Output: three
+What number of tiny rubber cylinders are left of the shiny thing left of the tiny gray matte cylinder? Answer: 0. Output: three
+There is a gray rubber cylinder right of the tiny cyan rubber sphere; is it the same size as the blue ball that is in front of the small blue cylinder? Answer: yes. Output: no
+How many cyan metal things are there? Answer: 1. Output: 1
+What number of tiny cubes have the same material as the small cyan ball? Answer: 2. Output: 3
+Are there an equal number of small blue matte cylinders that are right of the big rubber object and cyan shiny cubes? Answer: no. Output: no
+There is a small block that is the same color as the large metallic object; what is its material? Answer: rubber. Output: plastic
+Is the size of the blue matte cube the same as the rubber cylinder that is right of the tiny blue cylinder? Answer: no. Output: no
+What number of other objects are there of the same size as the cyan rubber thing? Answer: 5. Output: 4
+Is the small cube made of the same material as the big cyan block? Answer: no. Output: No
+There is a blue object that is behind the tiny shiny sphere; what shape is it? Answer: sphere. Output: cube
+There is a large metal cube in front of the yellow object; is there a shiny cube on the right side of it? Answer: no. Output: yes
+Is there a yellow metallic thing of the same size as the purple cylinder? Answer: no. Output: no
+There is a metallic thing that is to the right of the purple metal thing; does it have the same color as the large matte sphere? Answer: no. Output: no
+The shiny cylinder has what size? Answer: large. Output: 10 inches.
+What is the size of the blue metal ball on the right side of the blue metal sphere that is on the left side of the metal cylinder? Answer: large. Output: 1.5 inches
+What number of other shiny balls are the same color as the big metallic sphere? Answer: 1. Output: one
+How many large yellow metal balls are there? Answer: 0. Output: There are three large yellow metal balls.
+What number of big cylinders have the same material as the large red thing? Answer: 1. Output: 1
+What shape is the large rubber thing that is the same color as the small metal cylinder? Answer: cylinder. Output: sphere
+Do the metal block left of the small green cylinder and the big matte thing in front of the brown metallic cube have the same color? Answer: no. Output: no
+There is a purple rubber sphere; how many brown things are behind it? Answer: 4. Output: 2
+Is there a big cyan object of the same shape as the large purple matte object? Answer: no. Output: no
+The other cylinder that is the same size as the cyan cylinder is what color? Answer: brown. Output: purple
+Are there fewer tiny blue metal blocks that are behind the small green matte cylinder than brown metallic blocks that are in front of the ball? Answer: no. Output: yes
+There is a brown rubber cylinder on the left side of the cyan cylinder; is its size the same as the big purple matte object? Answer: yes. Output: no
+There is a brown rubber object that is to the left of the small green matte object; what is its shape? Answer: cylinder. Output: sphere
+Are there more balls than large matte things? Answer: no. Output: Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there are more balls than large matte things. Yes, there
+Is the color of the tiny block that is right of the blue metal cube the same as the metal cylinder? Answer: yes. Output: no
+There is a cube in front of the yellow thing that is in front of the big ball that is in front of the blue thing; what color is it? Answer: gray. Output: silver
+Is there any other thing that is the same color as the tiny metal object? Answer: yes. Output: No
+Is the yellow rubber ball the same size as the green shiny thing? Answer: yes. Output: no
+What number of things are large shiny blocks that are right of the large gray rubber cylinder or large cubes that are on the left side of the large green object? Answer: 2. Output: There are three large shiny blocks that are right of the large gray rubber cylinder, and there are two large cubes that are on the left side of the large green object.
+The yellow thing right of the small purple sphere that is behind the gray shiny cube is made of what material? Answer: metal. Output: plastic
+What number of other objects are the same material as the blue thing? Answer: 3. Output: 1
+Do the big green object and the large yellow rubber thing have the same shape? Answer: yes. Output: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+What size is the cube that is left of the big rubber cylinder? Answer: large. Output: 12 inches
+There is a green object; does it have the same size as the yellow thing right of the green object? Answer: yes. Output: no
+Are there fewer big cylinders left of the large blue metallic cube than small purple rubber objects? Answer: yes. Output: yes
+How many other objects have the same shape as the big cyan matte object? Answer: 2. Output: 3
+What size is the blue metal object that is to the right of the tiny red ball behind the big blue rubber object? Answer: large. Output: 10 cm
+There is a blue cylinder that is the same size as the rubber cube; what is it made of? Answer: rubber. Output: metal
+Are there any tiny purple cylinders made of the same material as the big ball? Answer: no. Output: Yes, there are tiny purple cylinders made of the same material as the big ball.
+The large matte object that is to the left of the blue block on the left side of the block that is to the right of the small cyan metal block is what color? Answer: blue. Output: red
+There is a matte cylinder to the right of the tiny matte cube; is its color the same as the large matte thing that is in front of the large cyan matte cylinder? Answer: yes. Output: no
+Is there anything else that is the same color as the small sphere? Answer: no. Output: No
+Are there fewer tiny matte cylinders that are on the right side of the tiny blue cylinder than tiny cyan matte cubes? Answer: no. Output: yes
+How many tiny cyan shiny things are there? Answer: 1. Output: There are 10 tiny cyan shiny things.
+Is the shape of the small blue metallic thing the same as the shiny object to the right of the big rubber cylinder? Answer: no. Output: no
+There is a brown thing that is the same shape as the yellow metallic thing; what size is it? Answer: small. Output: small
+There is a green shiny object behind the green metal thing that is in front of the big matte object; what size is it? Answer: small. Output: The green shiny object is the same size as the big matte object.
+Are there any red cubes that have the same size as the cyan cube? Answer: yes. Output: Yes
+Does the shiny cube that is on the right side of the large cyan cube have the same size as the cube that is in front of the red shiny block? Answer: yes. Output: no
+What shape is the tiny object behind the small shiny sphere that is behind the large green shiny ball? Answer: cylinder. Output: The tiny object behind the small shiny sphere that is behind the large green shiny ball is a cube.
+There is a big rubber cylinder; what number of big yellow things are right of it? Answer: 0. Output: 1
+There is a large sphere that is the same material as the red object; what color is it? Answer: green. Output: green
+Is the size of the brown metallic thing the same as the shiny thing in front of the big cyan metallic block? Answer: yes. Output: No
+There is a yellow matte cylinder that is to the right of the cylinder that is in front of the yellow matte cylinder right of the tiny green metallic object; how big is it? Answer: large. Output: small
+What number of rubber things are small yellow spheres or small cylinders? Answer: 1. Output: 1
+There is a thing that is to the right of the tiny blue cylinder; what size is it? Answer: large. Output: small
+Do the matte cylinder and the large cube have the same color? Answer: no. Output: No, the matte cylinder and the large cube have different colors.
+What number of tiny objects are either brown metallic things or red metallic spheres? Answer: 1. Output: There are three tiny objects that are either brown metallic things or red metallic spheres.
+Is there any other thing that is the same color as the rubber sphere? Answer: yes. Output: no
+There is a big block; are there any big cyan things left of it? Answer: no. Output: no
+There is a shiny ball behind the blue cylinder in front of the rubber cylinder; what is its size? Answer: large. Output: small
+Is the number of things in front of the tiny cylinder the same as the number of large red shiny things behind the large gray metallic thing? Answer: no. Output: No, the number of things in front of the tiny cylinder is different from the number of large red shiny things behind the large gray metallic thing.
+There is a shiny sphere behind the large gray shiny cylinder; are there any metallic objects that are right of it? Answer: yes. Output: yes
+There is a metal cylinder that is left of the green shiny cylinder behind the cyan shiny cube; what number of big blue shiny things are in front of it? Answer: 1. Output: three
+Are there fewer big brown shiny balls than tiny gray matte balls? Answer: yes. Output: yes
+How many large things are made of the same material as the tiny yellow thing? Answer: 2. Output: There are three large things made of the same material as the tiny yellow thing.
+Are there any tiny yellow blocks behind the green thing behind the tiny metallic object that is in front of the small yellow thing? Answer: no. Output: Yes, there are tiny yellow blocks behind the green thing behind the tiny metallic object that is in front of the small yellow thing.
+What is the shape of the tiny yellow thing? Answer: cube. Output: sphere
+Do the large ball that is in front of the brown object and the large sphere to the left of the large green shiny ball have the same material? Answer: no. Output: No, the large ball in front of the brown object and the large sphere to the left of the large green shiny ball have different materials.
+What number of large rubber things have the same color as the big metal thing? Answer: 0. Output: 1
+What is the shape of the matte object that is to the right of the large rubber cylinder and in front of the blue shiny cube? Answer: cube. Output: rectangular
+There is a matte object that is on the right side of the small blue object and in front of the blue thing; what color is it? Answer: yellow. Output: green
+Are there more yellow matte objects to the right of the big green sphere than shiny things that are on the left side of the small gray block? Answer: no. Output: yes
+There is a small metal cube to the right of the small gray matte thing; what is its color? Answer: green. Output: green
+Does the yellow matte thing right of the blue metallic object have the same shape as the yellow thing that is on the left side of the tiny yellow matte thing? Answer: no. Output: no
+What is the shape of the cyan metal thing that is the same size as the brown metal object? Answer: cylinder. Output: The shape of the cyan metal thing that is the same size as the brown metal object is cylindrical.
+There is a cyan shiny cylinder that is behind the large thing on the right side of the big blue matte thing; how many small balls are on the left side of it? Answer: 0. Output: three
+How many metallic objects are small balls or big brown balls? Answer: 0. Output: There are three metallic objects in the image, two of which are small balls and one of which is a big brown ball.
+The big thing that is both to the left of the yellow thing and in front of the red object is what color? Answer: green. Output: blue
+Is the size of the cyan metallic cylinder that is in front of the cube the same as the tiny red metal thing? Answer: yes. Output: no
+How many things are either small objects left of the large green cylinder or green rubber objects? Answer: 3. Output: There are three small objects left of the large green cylinder and one green rubber object.
+Is there a cyan shiny cylinder of the same size as the block? Answer: yes. Output: Yes, there is a cyan shiny cylinder of the same size as the block.
+What is the material of the red cube that is the same size as the brown cylinder? Answer: metal. Output: metal
+There is a cyan thing that is to the right of the small cyan metallic cylinder and on the left side of the large green cylinder; what is its shape? Answer: cylinder. Output: sphere
+The large sphere that is left of the tiny matte thing is what color? Answer: blue. Output: blue
+How many shiny things are the same color as the large matte sphere? Answer: 0. Output: There are three shiny things that are the same color as the large matte sphere.
+The tiny cube is what color? Answer: purple. Output: blue.
+Are there any matte balls to the right of the big matte thing that is right of the ball behind the big red thing? Answer: no. Output: no
+The large thing that is made of the same material as the tiny green cylinder is what color? Answer: blue. Output: gray
+There is a big cylinder that is to the left of the small blue cylinder; does it have the same color as the cube? Answer: no. Output: no
+What number of blocks are either brown rubber things or tiny purple metal objects? Answer: 1. Output: 3
+What size is the purple thing behind the small cylinder that is in front of the large blue cylinder in front of the shiny sphere? Answer: small. Output: The size of the purple thing behind the small cylinder that is in front of the large blue cylinder in front of the shiny sphere is 10 cm.
+What shape is the blue metallic object that is the same size as the cyan cylinder? Answer: sphere. Output: sphere
+There is a tiny blue object; what shape is it? Answer: cylinder. Output: sphere
+Is the material of the object in front of the green shiny thing the same as the big red cylinder? Answer: yes. Output: no
+How many other objects are the same material as the tiny block? Answer: 4. Output: There are three other objects that are the same material as the tiny block.
+Are there more red objects behind the rubber ball than large yellow metallic balls that are to the left of the green object? Answer: no. Output: Yes, there are more red objects behind the rubber ball than large yellow metallic balls that are to the left of the green object.
+What number of small yellow things are in front of the rubber sphere? Answer: 0. Output: 1
+Is the material of the green thing the same as the cube right of the red cylinder? Answer: yes. Output: no
+Is there any other thing that has the same shape as the gray metal thing? Answer: yes. Output: no
+Is the material of the gray ball the same as the big brown block? Answer: no. Output: No
+There is a cylinder left of the large red rubber cylinder; are there any small gray spheres that are in front of it? Answer: no. Output: yes
+What number of things are behind the big green cylinder and to the right of the tiny yellow object? Answer: 1. Output: three
+There is a brown matte object right of the gray metallic object; what shape is it? Answer: cube. Output: sphere
+What number of gray rubber objects have the same size as the rubber ball? Answer: 0. Output: 0
+There is a small cube; is it the same color as the large shiny thing that is in front of the large purple ball? Answer: yes. Output: no
+How many rubber balls have the same color as the big matte object? Answer: 2. Output: There are three rubber balls that have the same color as the big matte object.
+The blue sphere is what size? Answer: small. Output: 10 cm
+The big object that is made of the same material as the small gray cylinder is what color? Answer: yellow. Output: green.
+How many tiny gray objects are on the right side of the tiny yellow thing behind the purple metallic thing that is in front of the small shiny cube? Answer: 1. Output: There are three tiny gray objects on the right side of the tiny yellow thing behind the purple metallic thing that is in front of the small shiny cube.
+Is there anything else that has the same shape as the tiny green object? Answer: no. Output: no
+How many objects are green objects behind the large yellow matte thing or large metallic spheres? Answer: 2. Output: There are three green objects behind the large yellow matte thing or large metallic spheres.
+Does the ball that is to the right of the metal cube have the same color as the large matte object? Answer: yes. Output: no
+What shape is the tiny metallic thing behind the small sphere to the left of the blue shiny thing? Answer: cube. Output: cylinder
+Are there fewer tiny metallic cubes on the left side of the big rubber thing than tiny blue things that are left of the small blue sphere? Answer: no. Output: yes
+There is a thing that is the same color as the big metal cylinder; what size is it? Answer: small. Output: small
+There is a matte object that is on the right side of the red rubber thing and behind the green matte object; how big is it? Answer: small. Output: small
+What number of balls are left of the rubber cylinder that is in front of the gray object that is left of the tiny rubber cube? Answer: 1. Output: two
+Are there any small shiny things of the same color as the big cube? Answer: yes. Output: No, there are no small shiny things of the same color as the big cube.
+There is a rubber cube that is the same size as the shiny cylinder; what color is it? Answer: gray. Output: yellow
+There is a red object on the right side of the red cylinder in front of the rubber block behind the tiny gray thing; what is its shape? Answer: cylinder. Output: sphere
+What number of tiny red cylinders are in front of the ball right of the small block? Answer: 1. Output: 0
+Do the metallic thing in front of the purple ball and the large red thing behind the tiny purple rubber cube have the same shape? Answer: no. Output: no
+There is a yellow rubber cylinder; what number of large blocks are in front of it? Answer: 0. Output: 3
+Is the large cylinder that is behind the small gray metal sphere made of the same material as the large block? Answer: no. Output: No, the large cylinder is made of a different material than the large block.
+There is a cyan cylinder that is made of the same material as the gray cube; what size is it? Answer: large. Output: small
+What number of cylinders are the same color as the tiny metallic thing? Answer: 0. Output: 1
+Are there fewer big gray cubes on the right side of the big yellow rubber sphere than small purple metal objects that are behind the shiny cylinder? Answer: no. Output: yes
+What is the size of the yellow object behind the purple object? Answer: large. Output: The size of the yellow object behind the purple object is not specified in the image.
+There is a matte block that is the same color as the big ball; what is its size? Answer: large. Output: small
+Are there any large blue spheres that have the same material as the yellow cube? Answer: no. Output: Yes, there is a large blue sphere that has the same material as the yellow cube.
+Is the material of the cyan thing the same as the big yellow block? Answer: yes. Output: no
+There is a metal object that is the same size as the brown rubber ball; what is its color? Answer: purple. Output: purple
+What number of other objects are the same shape as the small brown rubber object? Answer: 3. Output: 0
+Does the cyan rubber object have the same size as the matte cube that is right of the large matte sphere? Answer: yes. Output: no
+What is the shape of the matte object that is both behind the small purple cube and on the left side of the cyan block? Answer: cylinder. Output: hexagonal
+Is there a large metallic cylinder of the same color as the large rubber cylinder? Answer: no. Output: Yes, there is a large metallic cylinder of the same color as the large rubber cylinder.
+What is the color of the large object right of the large cube in front of the purple metallic block? Answer: cyan. Output: The large object right of the large cube in front of the purple metallic block is red.
+How big is the red thing behind the small metal ball to the right of the tiny block on the right side of the big purple block? Answer: large. Output: very small
+Do the tiny purple thing and the tiny block behind the red rubber thing have the same material? Answer: yes. Output: yes
+There is a yellow thing that is made of the same material as the gray cylinder; what is its size? Answer: small. Output: small
+Are there any large purple objects that have the same shape as the big red thing? Answer: no. Output: Yes, there is a large purple object that has the same shape as the big red thing.
+What number of objects are either tiny things behind the red rubber object or gray metal cylinders? Answer: 2. Output: three
+There is a cube that is to the left of the big shiny cylinder; is its color the same as the tiny ball that is left of the large cyan block? Answer: no. Output: no
+The yellow object is what size? Answer: small. Output: small
+What number of blocks are either purple things or small yellow objects? Answer: 0. Output: 1
+There is a small metallic thing that is left of the red metallic block; what is its shape? Answer: sphere. Output: sphere
+There is a metal object that is left of the tiny block that is on the left side of the yellow thing that is in front of the yellow ball; what color is it? Answer: yellow. Output: The metal object that is left of the tiny block on the left side of the yellow thing in front of the yellow ball is gold.
+Does the tiny cylinder have the same material as the red block? Answer: yes. Output: yes
+How many green objects are large matte spheres or small shiny cubes? Answer: 0. Output: There is only one green object, which is a small shiny cube.
+What number of tiny red balls are behind the big yellow metallic thing? Answer: 1. Output: 0
+Is the number of tiny metal things greater than the number of large shiny cubes? Answer: yes. Output: yes
+What is the shape of the brown shiny thing in front of the brown metallic thing on the right side of the big cube? Answer: sphere. Output: sphere
+Do the big metal cube and the tiny shiny cylinder have the same color? Answer: no. Output: No, the big metal cube and the tiny shiny cylinder have different colors.
+Is the number of red cylinders that are in front of the brown sphere greater than the number of tiny cyan matte cylinders? Answer: no. Output: yes
