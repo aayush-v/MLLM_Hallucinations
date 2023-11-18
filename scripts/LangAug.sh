@@ -18,6 +18,6 @@ module load mamba/latest
 # Using python, so source activate an appropriate environment
 source activate nlp
 
-python /home/smalyal2/CLEVR_v1.0/questions/LangAug.py 
+python LangAug.py 
 
 
