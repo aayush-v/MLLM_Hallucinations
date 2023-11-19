@@ -10,21 +10,22 @@ model = InstructBlipForConditionalGeneration.from_pretrained("Salesforce/instruc
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
-
+print(device)
 processor = InstructBlipProcessor.from_pretrained("Salesforce/instructblip-vicuna-7b")
-imagesPath = "/home/smalyal2/CLEVR_v1.0/images/val/"
-quesDirectory = "/scratch/smalyal2/MLLM_Hallucinations/CLEVR_v1/datasetSplits/num3/"
+imagesPath = "/scratch/averma90/CLEVR_v1.0/images/val/"
+quesDirectory = "/home/averma90/CSE576/github/MLLM_Hallucinations/CLEVR_v1/datasetSplits/num6/"
 
 # Open the JSON file and process each line
-outputFileDirectory = "/scratch/smalyal2/MLLM_Hallucinations/CLEVR_v1/answers/val/language_augmentation/"
+outputFileDirectory = "/home/averma90/CSE576/github/MLLM_Hallucinations/CLEVR_v1/answers/val/language_augmentation/"
 
 for filename in os.listdir(quesDirectory):
+    print(filename)
     if filename.endswith('.json'):
         file_path = os.path.join(quesDirectory, filename)
         print(filename)
         with open(file_path, 'r') as jsonFile, open(f'{outputFileDirectory}{filename[:-5]}_results.json', 'a') as resultFile:
+            res = []
             for line in jsonFile.readlines()[:100]:
-                res = []
                 entry = json.loads(line)
                 img_name = entry["image_name"]
                 image_ques = entry["questions"]
@@ -54,8 +55,8 @@ for filename in os.listdir(quesDirectory):
                         "Ground truth": q["answer"],
                         "Model generated answer": generated_text
                     })
-                    json.dump(res, resultFile)
+                    # json.dump(res, resultFile)
         
                 # Append results for each image to the file
-            #json.dump(res, resultFile)
+            json.dump(res, resultFile)
                 #resultFile.write('\n')  # Add a newline for better readability
