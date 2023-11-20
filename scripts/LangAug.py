@@ -5,6 +5,10 @@ import requests
 import os
 #from tqdm import tqdm
 from transformers import InstructBlipProcessor, InstructBlipForConditionalGeneration
+import sys
+
+print(sys.argv[1])
+
 
 model = InstructBlipForConditionalGeneration.from_pretrained("Salesforce/instructblip-vicuna-7b")
 
@@ -13,13 +17,12 @@ model.to(device)
 print(device)
 processor = InstructBlipProcessor.from_pretrained("Salesforce/instructblip-vicuna-7b")
 imagesPath = "/scratch/averma90/CLEVR_v1.0/images/val/"
-quesDirectory = "/home/averma90/CSE576/github/MLLM_Hallucinations/CLEVR_v1/datasetSplits/num6/"
+quesDirectory = f"/home/averma90/CSE576/github/MLLM_Hallucinations/CLEVR_v1/datasetSplits/num{sys.argv[1]}/"
 
 # Open the JSON file and process each line
 outputFileDirectory = "/home/averma90/CSE576/github/MLLM_Hallucinations/CLEVR_v1/answers/val/language_augmentation/"
 
 for filename in os.listdir(quesDirectory):
-    print(filename)
     if filename.endswith('.json'):
         file_path = os.path.join(quesDirectory, filename)
         print(filename)
