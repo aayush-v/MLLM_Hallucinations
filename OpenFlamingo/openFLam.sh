@@ -17,4 +17,4 @@ module load mamba/latest
 # Using python, so source activate an appropriate environment
 source activate openFlam
 
-python openFlam.py
+python openFlam.py $1
