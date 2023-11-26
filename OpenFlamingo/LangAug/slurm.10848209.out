@@ -1,0 +1,4 @@
+complex
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+Flamingo model initialized with 1384781840 trainable parameters
+cuda
